@@ -17,6 +17,7 @@ table#tlayout {
 body {
 	background: var(--contentBG);
 	font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+	color: #323232;
 	padding-bottom: 8px;
 	margin: 0;
 }

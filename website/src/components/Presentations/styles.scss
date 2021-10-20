@@ -1,0 +1,98 @@
+@import 'src/scss/variables';
+
+.english {
+
+  max-width: 100%;
+  margin: 10px 40px 0px 40px;
+
+  &__heading {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 2.25em;
+  line-height: 2.5em;
+  text-align: center;
+  letter-spacing: -0.015em;
+  color: $color-black;
+  }
+
+  &__menu{
+    width: 100%;
+    height: 100px;
+    text-align: center; 
+    display: inline-flex;
+  }
+
+  &__headshot{
+    text-align: center;
+  }
+
+  &__img{
+    width: 70%;
+    max-height: 400px;
+    object-fit: contain;
+  }
+
+  &__left{
+    text-align: left;
+    width: 50%;
+  }
+
+  &__right{
+    display: inline-grid;
+    grid-template-columns: 10ch 10ch 10ch 10ch auto;
+    text-align: right;
+    width: 50%;
+    justify-content: right;
+  }
+
+  ul:hover, a:hover{
+    color: #9ea4b2 !important;
+  }
+
+  a{
+    text-decoration: none;
+    color: black;
+  }
+
+  .languagePicker{
+    float: right;
+  }
+
+  .dropdown{
+    padding: 0px;
+    font-size: 0.8em;
+    width: inherit;
+  }
+
+  button{
+    background: none;
+    color: inherit;
+    border: none;
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+    outline: inherit;
+  }
+
+  .Invited, .contributed, .workshops{
+    padding-left: 15px;
+  }
+
+  .presentations li p p a, .workshops li p p a {
+    color: darkblue;
+  }
+
+  @media only screen and (max-width:$media-m1-max) {
+    &__heading{
+      font-size: 1.75em;
+      line-height: 1em;
+    }
+    &__menu{
+      width:75%;
+    }
+  }
+}
+
+
+
+

@@ -13,6 +13,7 @@ import song9 from '../../media/9_ComeSailAway.mp3';
 import song10 from '../../media/10_Nine.mp3';
 import song11 from '../../media/11_Reunion.mp3';
 import song12 from '../../media/12_Pachelbel.mp3';
+import Band2Beat from '../../media/Band_2_Beat.mp4';
 import Menu from '../Menu_fr';
 import pianoDescription from '../../static/pianoDescription_fr';
 
@@ -286,7 +287,7 @@ function Piano() {
         </p>
         <video
           controls
-          src="https://anthonycoache.ca/media/Band_2_Beat.mp4"
+          src={Band2Beat}
         >
           <track
             default

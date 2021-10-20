@@ -1,5 +1,10 @@
 /* eslint-disable no-console */
 import React from 'react';
+import RLDynamicConvexRisk from '../../media/RL-DynamicConvexRisk.pdf';
+import RiskSensitiveRL from '../../media/RiskSensitive_RL.pdf';
+import StochAlgo from '../../media/StochAlgo_Portfolio.pdf';
+import DistillingPD from '../../media/Distilling_PD.pdf';
+
 import './styles.scss';
 
 function Presentations() {
@@ -14,7 +19,7 @@ function Presentations() {
             SIAM Conference on Financial Mathematics and Engineering. 1 juin 2021.
             <p>
               [
-              <a href="https://anthonycoache.ca/media/RL-DynamicConvexRisk.pdf">Diapos</a>
+              <a href={RLDynamicConvexRisk}>Diapos</a>
               ]
             </p>
           </p>
@@ -28,7 +33,7 @@ function Presentations() {
             Toronto. 18 mars 2021.
             <p>
               [
-              <a href="https://anthonycoache.ca/media/Distilling_PD.pdf">Diapos</a>
+              <a href={DistillingPD}>Diapos</a>
               ] [
               <a href="https://github.com/acoache/distilling-policy-distillation">Notebook Python</a>
               ]
@@ -41,7 +46,7 @@ function Presentations() {
             Congrès de recherche ACTSCI / MAFI, University of Toronto. 28 janvier 2021.
             <p>
               [
-              <a href="https://anthonycoache.ca/media/RiskSensitive_RL.pdf">Diapos</a>
+              <a href={RiskSensitiveRL}>Diapos</a>
               ] [
               <a href="https://github.com/acoache/knitr-beamer-3colors">Modèle de Beamer</a>
               ]
@@ -54,7 +59,7 @@ function Presentations() {
             de portefeuille basé sur un quantile. Congrès annuel de la SSC, Calgary. 27 mai 2019.
             <p>
               [
-              <a href="https://anthonycoache.ca/media/StochAlgo_Portfolio.pdf">Diapos</a>
+              <a href={StochAlgo}>Diapos</a>
               ] [
               <a href="https://github.com/acoache/knitr-beamer-3colors">Modèle de Beamer</a>
               ]

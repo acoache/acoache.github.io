@@ -1,5 +1,9 @@
 /* eslint-disable no-console */
 import React from 'react';
+import RLDynamicConvexRisk from '../../media/RL-DynamicConvexRisk.pdf';
+import RiskSensitiveRL from '../../media/RiskSensitive_RL.pdf';
+import StochAlgo from '../../media/StochAlgo_Portfolio.pdf';
+import DistillingPD from '../../media/Distilling_PD.pdf';
 import './styles.scss';
 
 function Presentations() {
@@ -14,7 +18,7 @@ function Presentations() {
             Financial Mathematics and Engineering. June 1, 2021.
             <p>
               [
-              <a href="https://anthonycoache.ca/media/RL-DynamicConvexRisk.pdf">Slides</a>
+              <a href={RLDynamicConvexRisk}>Slides</a>
               ]
             </p>
           </p>
@@ -28,7 +32,7 @@ function Presentations() {
             Toronto. March 18, 2021.
             <p>
               [
-              <a href="https://anthonycoache.ca/media/Distilling_PD.pdf">Slides</a>
+              <a href={DistillingPD}>Slides</a>
               ] [
               <a href="https://github.com/acoache/distilling-policy-distillation">Code notebook</a>
               ]
@@ -41,7 +45,7 @@ function Presentations() {
             Research meeting, University of Toronto. January 28, 2021.
             <p>
               [
-              <a href="https://anthonycoache.ca/media/RiskSensitive_RL.pdf">Slides</a>
+              <a href={RiskSensitiveRL}>Slides</a>
               ] [
               <a href="https://github.com/acoache/knitr-beamer-3colors">Beamer template</a>
               ]
@@ -54,7 +58,7 @@ function Presentations() {
             Portfolio Optimization Problem. Annual Meeting of the SSC, Calgary. May 27, 2019.
             <p>
               [
-              <a href="https://anthonycoache.ca/media/StochAlgo_Portfolio.pdf">Slides</a>
+              <a href={StochAlgo}>Slides</a>
               ] [
               <a href="https://github.com/acoache/knitr-beamer-3colors">Beamer template</a>
               ]

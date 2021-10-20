@@ -1,5 +1,8 @@
 /* eslint-disable no-console */
 import React from 'react';
+import AdjustR2 from '../../media/Adjusted_Rsquared.pdf';
+import TedTalks from '../../media/TEDtalks.pdf';
+import FluView from '../../media/FluView.pdf';
 import './styles.scss';
 
 function Publications() {
@@ -16,7 +19,7 @@ function Publications() {
             (Bio)Statistics Research Day, Montréal. September 21, 2018.
             <p>
               [
-              <a href="https://anthonycoache.ca/media/Adjusted_Rsquared.pdf" target="_blank" rel="noreferrer">Poster</a>
+              <a href={AdjustR2} target="_blank" rel="noreferrer">Poster</a>
               ] [
               <a href="https://olivierbinette.github.io/posts/2020-11-15-the-significance-of-the-adjusted-r-squared-coefficient/" target="_blank" rel="noreferrer">Blog</a>
               ]
@@ -30,7 +33,7 @@ function Publications() {
             pularity! Annual Meeting of the SSC, Montréal. June 4, 2018.
             <p>
               [
-              <a href="https://anthonycoache.ca/media/TEDtalks.pdf" target="_blank" rel="noreferrer">Poster</a>
+              <a href={TedTalks} target="_blank" rel="noreferrer">Poster</a>
               ] [
               <a href="https://github.com/acoache/knitr-poster-3colors" target="_blank" rel="noreferrer">Poster template</a>
               ]
@@ -45,7 +48,7 @@ function Publications() {
             regions. Annual Meeting of the SSC, Winnipeg. June 12, 2017.
             <p>
               [
-              <a href="https://anthonycoache.ca/media/FluView.pdf" target="_blank" rel="noreferrer">Poster</a>
+              <a href={FluView} target="_blank" rel="noreferrer">Poster</a>
               ]
             </p>
           </p>

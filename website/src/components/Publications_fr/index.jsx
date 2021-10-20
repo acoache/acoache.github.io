@@ -1,5 +1,8 @@
 /* eslint-disable no-console */
 import React from 'react';
+import AdjustR2 from '../../media/Adjusted_Rsquared.pdf';
+import TedTalks from '../../media/TEDtalks.pdf';
+import FluView from '../../media/FluView.pdf';
 import './styles.scss';
 
 function Publications() {
@@ -14,7 +17,7 @@ function Publications() {
             <b> Coache, A. </b>
             The Significance of the Adjusted R Squared. (Bio)Statistics
             Research Day, Montréal. 21 september 2018. [
-            <a href="https://anthonycoache.ca/media/Adjusted_Rsquared.pdf" target="_blank" rel="noreferrer">Affiche</a>
+            <a href={AdjustR2} target="_blank" rel="noreferrer">Affiche</a>
             ] [
             <a href="https://olivierbinette.github.io/posts/2020-11-15-the-significance-of-the-adjusted-r-squared-coefficient/" target="_blank" rel="noreferrer">Blogue</a>
             ]
@@ -25,7 +28,7 @@ function Publications() {
             <b> Coache, A. </b>
             & Larose, F. “Do schools kill creativity?” Well, they help analyze
             popularity! Congrès annuel de la SSC, Montréal. 4 juin 2018. [
-            <a href="https://anthonycoache.ca/media/TEDtalks.pdf" target="_blank" rel="noreferrer">Affiche</a>
+            <a href={TedTalks} target="_blank" rel="noreferrer">Affiche</a>
             ] [
             <a href="https://github.com/acoache/knitr-poster-3colors" target="_blank" rel="noreferrer">Modèle d’affiche</a>
             ]
@@ -37,7 +40,7 @@ function Publications() {
             <b> Coache, A. </b>
             Comparison of surveillance flu data across regions.
             Congrès annuel de la SSC, Winnipeg. 12 juin 2017. [
-            <a href="https://anthonycoache.ca/media/FluView.pdf" target="_blank" rel="noreferrer">Affiche</a>
+            <a href={FluView} target="_blank" rel="noreferrer">Affiche</a>
             ]
           </p>
         </li>

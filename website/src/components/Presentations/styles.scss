@@ -45,7 +45,7 @@
     justify-content: right;
   }
 
-  ul:hover, a:hover{
+  a:hover{
     color: #9ea4b2 !important;
   }
 
@@ -74,8 +74,12 @@
     outline: inherit;
   }
 
-  .Invited, .contributed, .workshops{
+  ul {
     padding-left: 15px;
+  }
+
+  ul:hover {
+    color: black !important;
   }
 
   .presentations li p p a, .workshops li p p a {

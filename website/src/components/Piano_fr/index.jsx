@@ -1,6 +1,18 @@
 import React from 'react';
 import DocumentMeta from 'react-document-meta';
 import './styles.scss';
+import song1 from '../../media/1_StThomas.mp3';
+import song2 from '../../media/2_Georgia.mp3';
+import song3 from '../../media/3_Quartet.mp3';
+import song4 from '../../media/4_TempsChanson.mp3';
+import song5 from '../../media/5_TakeFive.mp3';
+import song6 from '../../media/6_Bohemian.mp3';
+import song7 from '../../media/7_PenseEncoreToi.mp3';
+import song8 from '../../media/8_DanseSmatte.mp3';
+import song9 from '../../media/9_ComeSailAway.mp3';
+import song10 from '../../media/10_Nine.mp3';
+import song11 from '../../media/11_Reunion.mp3';
+import song12 from '../../media/12_Pachelbel.mp3';
 import Menu from '../Menu_fr';
 import pianoDescription from '../../static/pianoDescription_fr';
 
@@ -32,7 +44,7 @@ function Piano() {
             <br />
             <audio
               controls
-              src="https://anthonycoache.ca/media/1_StThomas.mp3"
+              src={song1}
             >
               <track
                 default
@@ -52,7 +64,7 @@ function Piano() {
             <br />
             <audio
               controls
-              src="https://anthonycoache.ca/media/2_Georgia.mp3"
+              src={song2}
             >
               <track
                 default
@@ -72,7 +84,7 @@ function Piano() {
             <br />
             <audio
               controls
-              src="https://anthonycoache.ca/media/3_Quartet.mp3"
+              src={song3}
             >
               <track
                 default
@@ -92,7 +104,7 @@ function Piano() {
             <br />
             <audio
               controls
-              src="https://anthonycoache.ca/media/4_TempsChanson.mp3"
+              src={song4}
             >
               <track
                 default
@@ -112,7 +124,7 @@ function Piano() {
             <br />
             <audio
               controls
-              src="https://anthonycoache.ca/media/5_TakeFive.mp3"
+              src={song5}
             >
               <track
                 default
@@ -132,7 +144,7 @@ function Piano() {
             <br />
             <audio
               controls
-              src="https://anthonycoache.ca/media/6_Bohemian.mp3"
+              src={song6}
             >
               <track
                 default
@@ -152,7 +164,7 @@ function Piano() {
             <br />
             <audio
               controls
-              src="https://anthonycoache.ca/media/7_PenseEncoreToi.mp3"
+              src={song7}
             >
               <track
                 default
@@ -172,7 +184,7 @@ function Piano() {
             <br />
             <audio
               controls
-              src="https://anthonycoache.ca/media/8_DanseSmatte.mp3"
+              src={song8}
             >
               <track
                 default
@@ -192,7 +204,7 @@ function Piano() {
             <br />
             <audio
               controls
-              src="https://anthonycoache.ca/media/9_ComeSailAway.mp3"
+              src={song9}
             >
               <track
                 default
@@ -212,7 +224,7 @@ function Piano() {
             <br />
             <audio
               controls
-              src="https://anthonycoache.ca/media/10_Nine.mp3"
+              src={song10}
             >
               <track
                 default
@@ -232,7 +244,7 @@ function Piano() {
             <br />
             <audio
               controls
-              src="https://anthonycoache.ca/media/11_Reunion.mp3"
+              src={song11}
             >
               <track
                 default
@@ -252,7 +264,7 @@ function Piano() {
             <br />
             <audio
               controls
-              src="https://anthonycoache.ca/media/12_Pachelbel.mp3"
+              src={song12}
             >
               <track
                 default

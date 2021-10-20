@@ -61,7 +61,7 @@ function Menu() {
         <ul className="right" style={{ display: (width > 650) ? 'block' : 'none' }}>
           <li>
             <button type="button" onClick={handleClickMisc}>Misc</button>
-            <div style={{ display: toggleMisc ? 'block ruby' : 'none' }}>
+            <div style={{ display: toggleMisc ? 'grid' : 'none' }}>
               <ul className="dropdown">
                 <a href="/Piano">
                   Piano
@@ -76,7 +76,7 @@ function Menu() {
           </li>
           <li>
             <button type="button" onClick={handleClickResearch}>Research</button>
-            <div style={{ display: toggleResearch ? 'block ruby' : 'none' }}>
+            <div style={{ display: toggleResearch ? 'grid' : 'none' }}>
               <ul className="dropdown">
                 <a href="/Research/#Publications">
                   Publications

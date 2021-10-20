@@ -20,6 +20,8 @@
   
   .right li {
     float: right;
+    display: grid;
+    width: min-content;
   }
   
   .right {
@@ -51,6 +53,8 @@
     padding-left: 24px;
     text-decoration: none;
     float: right;
+    text-align: right;
+    width: inherit;
   }
 
   ul li ul {

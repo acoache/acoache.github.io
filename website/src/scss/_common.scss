@@ -1,0 +1,46 @@
+@import 'variables';
+
+%button-text {
+	font-size: 0.8125em;
+	font-family: $global-roboto;
+	margin: 0;
+}
+
+@mixin focus-color {
+	outline: 1px solid $color-black;
+}
+
+@mixin focus-outset($color) {
+	outline-width: 1px !important;
+	outline-style: solid !important;
+	outline-color: $color !important;
+	outline-offset: 2px !important;
+	-webkit-box-shadow: none !important;
+	box-shadow: none !important;
+	transition: none !important;
+	z-index: 1;
+}
+
+@mixin primary_button($font_color, $background_color) {
+    text-align: center;
+    align-items: center;
+    width: calc(100% - 26px);
+    height: 52px;
+    margin: 13px;
+    background: $background_color;
+    border: 2px solid black;
+    box-sizing: border-box;
+    border-radius: 6px;
+    color: $font_color;
+    font-family: Roboto-Regular;
+    font-size: 13px;
+    line-height: 15px;
+    &:hover {
+      background: $font_color;
+      color: $background_color;
+      cursor: pointer;
+    }
+    &:focus {
+      background:rgb(168, 168, 168);
+    }
+}

@@ -52,7 +52,7 @@ function Menu() {
   return (
     <div>
       <div className="languagePicker">
-        <a href="\">EN</a>
+        <a href="/">EN</a>
       </div>
       <div className="menu_fr">
         <h1 className="left">

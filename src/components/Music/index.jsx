@@ -19,7 +19,7 @@ function Music() {
         <hr />
         <div className="music_search">
           <a href="/#Music/#EDM">EDM</a>
-          <a href="/Music/#FolkPop">Folk / Pop</a>
+          <a href="/#Music/#FolkPop">Folk / Pop</a>
           <a href="/#Music/#FutureHouse">Future House</a>
           <a href="/#Music/#IndieRock">Indie Rock</a>
           <a href="/#Music/#Neoclassical">Neoclassical</a>

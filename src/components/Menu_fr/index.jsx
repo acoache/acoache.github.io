@@ -1,5 +1,6 @@
 /* eslint-disable no-console */
 import React from 'react';
+import { HashLink } from 'react-router-hash-link';
 import cv from '../../media/cv_academic_fr.pdf';
 import './styles.scss';
 import menuIcon from '../../static/menu_icon.png';
@@ -78,14 +79,14 @@ function Menu() {
             <button type="button" onClick={handleClickResearch}>Recherche</button>
             <div style={{ display: toggleResearch ? 'grid' : 'none' }}>
               <ul className="dropdown">
-                <a href="/#Recherche/#Publications">
+                <HashLink to="/Recherche#Publications">
                   Publications
-                </a>
+                </HashLink>
               </ul>
               <ul className="dropdown">
-                <a href="/#Recherche/#Presentations">
+                <HashLink to="/Recherche#Presentations">
                   Présentations
-                </a>
+                </HashLink>
               </ul>
             </div>
           </li>

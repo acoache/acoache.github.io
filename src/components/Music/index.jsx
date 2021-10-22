@@ -1,5 +1,6 @@
 import React from 'react';
 import DocumentMeta from 'react-document-meta';
+import { HashLink } from 'react-router-hash-link';
 import './styles.scss';
 import Menu from '../Menu';
 import musicDescription from '../../static/musicDescription';
@@ -18,16 +19,16 @@ function Music() {
         <p>{musicDescription}</p>
         <hr />
         <div className="music_search">
-          <a href="/#Music/#EDM">EDM</a>
-          <a href="/#Music/#FolkPop">Folk / Pop</a>
-          <a href="/#Music/#FutureHouse">Future House</a>
-          <a href="/#Music/#IndieRock">Indie Rock</a>
-          <a href="/#Music/#Neoclassical">Neoclassical</a>
-          <a href="/#Music/#RBSoul">R&B / Soul</a>
-          <a href="/#Music/#TropicalHouse">Tropical House</a>
-          <a href="/#Music/#Misc">Misc</a>
-          <a href="/#Music/#Spotify">Spotify Playlists</a>
-          <a href="/#Music/#Podcasts">Podcasts</a>
+          <HashLink to="/music#EDM">EDM</HashLink>
+          <HashLink to="/music#FolkPop">Folk / Pop</HashLink>
+          <HashLink to="/music#FutureHouse">Future House</HashLink>
+          <HashLink to="/music#IndieRock">Indie Rock</HashLink>
+          <HashLink to="/music#Neoclassical">Neoclassical</HashLink>
+          <HashLink to="/music#RBSoul">R&B / Soul</HashLink>
+          <HashLink to="/music#TropicalHouse">Tropical House</HashLink>
+          <HashLink to="/music#Misc">Misc</HashLink>
+          <HashLink to="/music#Spotify">Spotify Playlists</HashLink>
+          <HashLink to="/music#Podcasts">Podcasts</HashLink> 
         </div>
         <h3 id="EDM">EDM</h3>
         <p>Avicii, Vicetone, Tritonal, Audien, Disco Fries, Lucas & Steve</p>

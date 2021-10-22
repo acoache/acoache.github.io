@@ -7,7 +7,7 @@ import './styles.scss';
 
 function Publications() {
   return (
-    <div>
+    <div id="Publications">
       <h3>Publications</h3>
       <h4>Affiches</h4>
       <div className="posters">

@@ -52,7 +52,7 @@ function Menu() {
   return (
     <div>
       <div className="languagePicker">
-        <a href="/Francais">FR</a>
+        <a href="/#Francais">FR</a>
       </div>
       <div className="menu">
         <h1 className="left">
@@ -63,12 +63,12 @@ function Menu() {
             <button type="button" onClick={handleClickMisc}>Misc</button>
             <div style={{ display: toggleMisc ? 'grid' : 'none' }}>
               <ul className="dropdown">
-                <a href="/Piano">
+                <a href="/#Piano">
                   Piano
                 </a>
               </ul>
               <ul className="dropdown">
-                <a href="/Music">
+                <a href="/#Music">
                   Music
                 </a>
               </ul>
@@ -78,12 +78,12 @@ function Menu() {
             <button type="button" onClick={handleClickResearch}>Research</button>
             <div style={{ display: toggleResearch ? 'grid' : 'none' }}>
               <ul className="dropdown">
-                <a href="/Research/#Publications">
+                <a href="/#Research/#Publications">
                   Publications
                 </a>
               </ul>
               <ul className="dropdown">
-                <a href="/Research/#Presentations">
+                <a href="/#Research/#Presentations">
                   Presentations
                 </a>
               </ul>
@@ -107,9 +107,9 @@ function Menu() {
           <div className="menu_items" style={{ display: toggleMenu ? 'grid' : 'none' }}>
             <a href={cv} target="_blank" rel="noreferrer">CV</a>
             <a href="mailto:anthony.coache@gmail.com">Contact</a>
-            <a href="/Research">Research</a>
-            <a href="/Piano">Piano</a>
-            <a href="/Music">Music</a>
+            <a href="/#Research">Research</a>
+            <a href="/#Piano">Piano</a>
+            <a href="/#Music">Music</a>
           </div>
         </ul>
       </div>

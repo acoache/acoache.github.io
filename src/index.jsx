@@ -23,14 +23,14 @@ ReactDOM.render(
   <React.StrictMode>
     <Router history={history}>
       <Switch>
+        <Route exact path="/#Francais" component={Francais} />
+        <Route exact path="/#Research" component={Research} />
+        <Route exact path="/#Recherche" component={Recherche} />
+        <Route exact path="/#Piano" component={Piano} />
+        <Route exact path="/#Piano_fr" component={pianoFr} />
+        <Route exact path="/#Music" component={Music} />
+        <Route exact path="/#Musique_fr" component={Musique} />
         <Route exact path="/" component={English} />
-        <Route exact path="/Francais" component={Francais} />
-        <Route exact path="/Research" component={Research} />
-        <Route exact path="/Recherche" component={Recherche} />
-        <Route exact path="/Piano" component={Piano} />
-        <Route exact path="/Piano_fr" component={pianoFr} />
-        <Route exact path="/Music" component={Music} />
-        <Route exact path="/Musique_fr" component={Musique} />
       </Switch>
     </Router>
   </React.StrictMode>,

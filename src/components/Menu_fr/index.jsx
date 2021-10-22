@@ -56,19 +56,19 @@ function Menu() {
       </div>
       <div className="menu_fr">
         <h1 className="left">
-          <a href="/Francais">Anthony Coache</a>
+          <a href="/#Francais">Anthony Coache</a>
         </h1>
         <ul className="right" style={{ display: (width > 650) ? 'block' : 'none' }}>
           <li>
             <button type="button" onClick={handleClickMisc}>Misc</button>
             <div style={{ display: toggleMisc ? 'grid' : 'none' }}>
               <ul className="dropdown">
-                <a href="/Piano_fr">
+                <a href="/#Piano_fr">
                   Piano
                 </a>
               </ul>
               <ul className="dropdown">
-                <a href="/Musique_fr">
+                <a href="/#Musique_fr">
                   Musique
                 </a>
               </ul>
@@ -78,12 +78,12 @@ function Menu() {
             <button type="button" onClick={handleClickResearch}>Recherche</button>
             <div style={{ display: toggleResearch ? 'grid' : 'none' }}>
               <ul className="dropdown">
-                <a href="/Recherche/#Publications">
+                <a href="/#Recherche/#Publications">
                   Publications
                 </a>
               </ul>
               <ul className="dropdown">
-                <a href="/Recherche/#Presentations">
+                <a href="/#Recherche/#Presentations">
                   Présentations
                 </a>
               </ul>
@@ -107,9 +107,9 @@ function Menu() {
           <div className="menu_items" style={{ display: toggleMenu ? 'grid' : 'none' }}>
             <a href={cv} target="_blank" rel="noreferrer">CV</a>
             <a href="mailto:anthony.coache@gmail.com">Contact</a>
-            <a href="/Recherche">Recherche</a>
-            <a href="/Piano_fr">Piano</a>
-            <a href="/Musique_fr">Music</a>
+            <a href="/#Recherche">Recherche</a>
+            <a href="/#Piano_fr">Piano</a>
+            <a href="/#Musique_fr">Music</a>
           </div>
         </ul>
       </div>

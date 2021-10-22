@@ -109,7 +109,7 @@ function Menu() {
             <a href="mailto:anthony.coache@gmail.com">Contact</a>
             <a href="/#Recherche">Recherche</a>
             <a href="/#Piano_fr">Piano</a>
-            <a href="/#Musique_fr">Music</a>
+            <a href="/#Musique_fr">Musique</a>
           </div>
         </ul>
       </div>

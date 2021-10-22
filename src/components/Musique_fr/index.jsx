@@ -18,16 +18,16 @@ function Music() {
         <p>{musicDescription}</p>
         <hr />
         <div className="music_search">
-          <a href="/Musique_fr/#EDM">EDM</a>
-          <a href="/Musique_fr/#FolkPop">Folk / Pop</a>
-          <a href="/Musique_fr/#FutureHouse">Future House</a>
-          <a href="/Musique_fr/#IndieRock">Indie Rock</a>
-          <a href="/Musique_fr/#Neoclassique">Neoclassique</a>
-          <a href="/Musique_fr/#RBSoul">R&B / Soul</a>
-          <a href="/Musique_fr/#TropicalHouse">Tropical House</a>
-          <a href="/Musique_fr/#Divers">Divers</a>
-          <a href="/Musique_fr/#Spotify">Playlists Spotify</a>
-          <a href="/Musique_fr/#Podcasts">Podcasts</a>
+          <a href="/#Musique_fr/#EDM">EDM</a>
+          <a href="/#Musique_fr/#FolkPop">Folk / Pop</a>
+          <a href="/#Musique_fr/#FutureHouse">Future House</a>
+          <a href="/#Musique_fr/#IndieRock">Indie Rock</a>
+          <a href="/#Musique_fr/#Neoclassique">Neoclassique</a>
+          <a href="/#Musique_fr/#RBSoul">R&B / Soul</a>
+          <a href="/#Musique_fr/#TropicalHouse">Tropical House</a>
+          <a href="/#Musique_fr/#Divers">Divers</a>
+          <a href="/#Musique_fr/#Spotify">Playlists Spotify</a>
+          <a href="/#Musique_fr/#Podcasts">Podcasts</a>
         </div>
         <h3 id="EDM">EDM</h3>
         <p>Avicii, Vicetone, Tritonal, Audien, Disco Fries, Lucas & Steve</p>

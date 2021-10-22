@@ -78,12 +78,12 @@ function Menu() {
             <button type="button" onClick={handleClickResearch}>Recherche</button>
             <div style={{ display: toggleResearch ? 'grid' : 'none' }}>
               <ul className="dropdown">
-                <a href="/#Recherche/#Publications">
+                <a href="/Recherche/#Publications">
                   Publications
                 </a>
               </ul>
               <ul className="dropdown">
-                <a href="/#Recherche/#Presentations">
+                <a href="/Recherche/#Presentations">
                   Présentations
                 </a>
               </ul>

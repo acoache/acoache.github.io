@@ -49,7 +49,11 @@
     padding-left: 15px;
   }
   
-  ul:hover, a:hover{
+  ul:hover {
+    color: black !important;
+  } 
+
+  a:hover {
     color: #9ea4b2 !important;
   }
 

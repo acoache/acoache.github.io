@@ -1,5 +1,6 @@
 import React from "react";
 import date from '../../static/updateDate';
+import './styles.scss';
 
 function Footer() {
   return (

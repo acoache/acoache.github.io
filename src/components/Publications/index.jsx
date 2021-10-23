@@ -32,8 +32,8 @@ function Publications() {
           <li>
             <p>
               <b>Coache, A. </b>
-              & Larose, F. “Do schools kill creativity?” Well, they help analyze po
-              pularity! Annual Meeting of the SSC, Montréal. June 4, 2018.
+              & Larose, F. “Do schools kill creativity?” Well, they help analyze
+              popularity! Annual Meeting of the SSC, Montréal. June 4, 2018.
               <p>
                 [
                 <a href={TedTalks} target="_blank" rel="noreferrer">Poster</a>

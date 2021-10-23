@@ -45,9 +45,19 @@ function Presentations() {
               <b>Mai, 2020 </b>
               – Membre du comité organisateur du
               <a href="https://ssc.ca/fr/congres/annuel/congres-annuel-2020/congres-canadien-etudiants-en-statistique" target="_blank" rel="noreferrer"> Congrès canadien des étudiants en statistique 2020</a>
-              qui s’est tenu en ligne (plutôt qu’à l’Université Carleton à Ottawa en raison de la
+              , qui s’est tenu en ligne (plutôt qu’à l’Université Carleton à Ottawa en raison de la
               COVID-19) le 30 mai 2020. Je faisais partie de l’équipe de traduction, j’étais
-              président de la session “Analyses sportives et démographiques” et modérateur.
+              président d'une session et modérateur.
+            </p>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <p>
+              <b>Janv, 2020 </b>
+              – Assistant de recherche pour Prof. Sebastian Jaimungal, travaillant sur une
+              <a href="https://cqam.ca/finance-labs/systemic-risk-analytics/" target="_blank" rel="noreferrer"> collaboration entre Fields CQAM et Oanda</a>
+              .
             </p>
           </li>
         </ul>
@@ -82,9 +92,9 @@ function Presentations() {
               <b>Févr, 2019 </b>
               – Contribué au
               <a href="https://github.com/OlivierBinette/Guide-des-bourses-UQAM" target="_blank" rel="noreferrer"> guide de soutien au développement professionnel pour les étudiants en maths-stat à l’UQAM</a>
-              un travail initié par mon ami
+              , un travail initié par mon ami
               <a href="https://olivierbinette.github.io/" target="_blank" rel="noreferrer"> Olivier Binette</a>
-              Ce guide propose plusieurs exemples d’applications réussies à des
+              . Ce guide propose plusieurs exemples d’applications réussies à des
               bourses (CVs, « statement of purpose », etc.) d’étudiants de l’UQAM
               en plus d’offrir des liens à différentes ressources utiles.
             </p>

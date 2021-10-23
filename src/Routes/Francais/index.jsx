@@ -1,8 +1,10 @@
 /* eslint-disable no-console */
 import React from 'react';
+import Footer from '../../components/Footer_fr';
 import DocumentMeta from 'react-document-meta';
 import headshot from '../../media/photo2.jpg';
 import bio from '../../static/bio_fr';
+import interests from '../../static/researchInterests_fr';
 import './styles.scss';
 import Menu from '../../components/Menu_fr';
 import News from '../../components/News_fr';
@@ -30,15 +32,9 @@ function Home() {
         <News news={News} />
         <hr />
         <h2>Intérêts en recherche</h2>
-        <p>
-          J’ai une très forte connaissance des mathématiques et de
-          la programmation. Je suis intéressé aux problèmes multidisciplinaires
-          à l’intersection de la statistique et de l’informatique. Plus
-          particulièrement, mes intérêts en recherche se situent dans
-          l’apprentissage par renforcement, la modélisation stochastique,
-          l’optimisation, la statistique appliquée, l’apprentissage statistique et l’informatique.
-        </p>
+        <p>{interests}</p>
       </div>
+      <Footer/>
     </div>
   );
 }

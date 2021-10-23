@@ -45,8 +45,17 @@ function Presentations() {
               – Member of the organizing committee for the
               <a href="https://ssc.ca/en/meetings/annual/2020-annual-meeting/canadian-statistics-student-conference" target="_blank" rel="noreferrer"> Canadian Statistics Student Conference 2020</a>
               , held online (instead of at Carleton University in Ottawa due to COVID-19) on May 30,
-              2020. I was part of the translation team, chair of the “Sports &
-              Demographics Analytics” session and chat moderator.
+              2020. I was part of the translation team, chair of a session and chat moderator.
+            </p>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <p>
+              <b>Jan, 2020 </b>
+              – Research assistant for Prof. Sebastian Jaimungal, working on a
+              <a href="https://cqam.ca/finance-labs/systemic-risk-analytics/" target="_blank" rel="noreferrer"> collaboration between Fields CQAM and Oanda</a>
+              .
             </p>
           </li>
         </ul>

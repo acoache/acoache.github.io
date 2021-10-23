@@ -1,4 +1,5 @@
 import React from 'react';
+import Footer from '../../components/Footer';
 import DocumentMeta from 'react-document-meta';
 import { HashLink } from 'react-router-hash-link';
 import './styles.scss';
@@ -93,7 +94,7 @@ function Music() {
           <li>
             <a href="https://podcasts.apple.com/podcast/tritonia/id296189771" target="_blank" rel="noreferrer">
               Tritonia (
-              <i>Tritonial</i>
+              <i>Tritonal</i>
               )
             </a>
           </li>
@@ -120,7 +121,7 @@ function Music() {
           </li>
           <li>
             <a href="https://podcasts.apple.com/ca/podcast/two-friends-mixes/id1047970546" target="_blank" rel="noreferrer">
-              Friendly Sessions / Big Bootie Mix (
+              Friendly Sessions / Big Bootie Mixes (
               <i>Two Friends</i>
               )
             </a>
@@ -146,6 +147,7 @@ function Music() {
           </li>
         </div>
       </div>
+      <Footer/>
     </div>
   );
 }

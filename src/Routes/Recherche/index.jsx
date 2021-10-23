@@ -1,7 +1,9 @@
 /* eslint-disable no-console */
 import React from 'react';
+import Footer from '../../components/Footer';
 import DocumentMeta from 'react-document-meta';
 import './styles.scss';
+import description from '../../static/researchDescription_fr';
 import Menu from '../../components/Menu_fr';
 import Publications from '../../components/Publications_fr';
 import Presentations from '../../components/Presentations_fr';
@@ -17,15 +19,13 @@ function Research() {
       <Menu menu={Menu} />
       <div className={mainStyle}>
         <h2>Recherche</h2>
-        <p>
-          Vous trouverez ci-dessous mes affiches, les projets, et
-          les présentations auxquelles j&apos;ai contribué.
-        </p>
+        <p>{description}</p>
         <hr />
         <Publications publications={Publications} />
         <hr />
         <Presentations presentations={Presentations} />
       </div>
+      <Footer/>
     </div>
   );
 }

@@ -68,7 +68,7 @@ function Publications() {
               Bilodeau, B. &
               <b> Coache, A. </b>
               Methods for Adding Explicit Uncertainty to Deep Q-Learning.
-              *Minimizing Expectations course, University of Toronto. April 14, 2021.
+              Minimizing Expectations course, University of Toronto. April 14, 2021.
               <p>
                 [
                 <a href="https://github.com/acoache/sta4273-final-project" target="_blank" rel="noreferrer">GitHub repo</a>

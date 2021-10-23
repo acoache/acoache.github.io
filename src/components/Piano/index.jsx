@@ -1,4 +1,5 @@
 import React from 'react';
+import Footer from '../../components/Footer';
 import DocumentMeta from 'react-document-meta';
 import './styles.scss';
 import song1 from '../../media/1_StThomas.mp3';
@@ -159,7 +160,7 @@ function Piano() {
           <ul>
             Je pense encore à toi (
             <i>
-              Sylvain Cossette & Claude Pineault
+              Sylvain Cossette
             </i>
             )
             <br />
@@ -298,6 +299,7 @@ function Piano() {
           Sorry, your browser does not support embedded audio.
         </video>
       </div>
+      <Footer/>
     </div>
   );
 }

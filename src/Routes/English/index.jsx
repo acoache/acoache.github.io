@@ -1,8 +1,10 @@
 /* eslint-disable no-console */
 import React from 'react';
+import Footer from '../../components/Footer';
 import DocumentMeta from 'react-document-meta';
 import headshot from '../../media/photo2.jpg';
 import bio from '../../static/bio';
+import interests from '../../static/researchInterests';
 import './styles.scss';
 import Menu from '../../components/Menu';
 import News from '../../components/News';
@@ -30,14 +32,9 @@ function Home() {
         <News news={News} />
         <hr />
         <h2>Research Interests</h2>
-        <p>
-          I have a strong background in mathematics and programming.
-          I am interested in multidisciplinary problems at the intersection of
-          statistics and computer science. More specifically, my research interests are in
-          reinforcement learning, stochastic modeling, optimization, applied statistics,
-          statistical learning and computer science.
-        </p>
+        <p>{interests}</p>
       </div>
+      <Footer/>
     </div>
   );
 }

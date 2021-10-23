@@ -11,7 +11,7 @@ import reportWebVitals from './reportWebVitals';
 import English from './Routes/English';
 import Francais from './Routes/Francais';
 import Piano from './components/Piano';
-import pianoFr from './components/Piano_fr';
+import PianoFr from './components/Piano_fr';
 import Music from './components/Music';
 import Musique from './components/Musique_fr';
 import Research from './Routes/Research';
@@ -28,7 +28,7 @@ ReactDOM.render(
         <Route exact path="/Research" component={Research} />
         <Route exact path="/Recherche" component={Recherche} />
         <Route exact path="/Piano" component={Piano} />
-        <Route exact path="/Piano_fr" component={pianoFr} />
+        <Route exact path="/Piano_fr" component={PianoFr} />
         <Route exact path="/Music" component={Music} />
         <Route exact path="/Musique_fr" component={Musique} />
       </Switch>

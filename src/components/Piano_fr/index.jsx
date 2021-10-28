@@ -1,5 +1,5 @@
 import React from 'react';
-import Footer from '../../components/Footer';
+import Footer from '../../components/Footer_fr';
 import DocumentMeta from 'react-document-meta';
 import './styles.scss';
 import song1 from '../../media/1_StThomas.mp3';

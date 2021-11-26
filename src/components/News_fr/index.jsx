@@ -9,6 +9,16 @@ function Presentations() {
         <ul>
           <li>
             <p>
+              <b>Janv, 2022 </b>
+              – Visite de l'
+              <a href="https://www.oxford-man.ox.ac.uk/" target="_blank" rel="noreferrer"> Oxford-Man Institute (OMI) </a>
+              pour une durée de 6 mois.
+            </p>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <p>
               <b>Sept, 2021 </b>
               – Membre du comité de programme pour l’
               <a href="https://ai-finance.org/" target="_blank" rel="noreferrer">ACM International Conference on AI in Finance</a>

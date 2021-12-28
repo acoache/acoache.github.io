@@ -10,9 +10,10 @@ function Presentations() {
           <li>
             <p>
               <b>Janv, 2022 </b>
-              – Visite de l'
-              <a href="https://www.oxford-man.ox.ac.uk/" target="_blank" rel="noreferrer"> Oxford-Man Institute (OMI) </a>
-              pour une durée de 6 mois.
+              – Visiteur académique à l'
+              <a href="https://www.oxford-man.ox.ac.uk/" target="_blank" rel="noreferrer"> Oxford-Man Institute </a>
+              (Université d'Oxford) pendant une période de 6 mois, invité par
+              <a href="https://sites.google.com/site/alvarocartea/home" target="_blank" rel="noreferrer"> Prof. Álvaro Cartea</a>.
             </p>
           </li>
         </ul>
@@ -44,8 +45,7 @@ function Presentations() {
               <b>Janv, 2021 </b>
               – Préparé et dirigé un
               <a href="https://github.com/acoache/matlab-bootcamp-MFI" target="_blank" rel="noreferrer"> tutoriel Matlab </a>
-              pour les étudiants du programme de maîtrise en assurance financière à l’Université de
-              Toronto.
+              pour les étudiants du programme de maîtrise en assurance financière à UofT.
             </p>
           </li>
         </ul>
@@ -86,13 +86,13 @@ function Presentations() {
           <li>
             <p>
               <b>Mars, 2019 </b>
-              – Co-organisé le Sommet étudiant de la statistique à Montréal qui a eu lieu le 15 mars
-              2019. Cette nouvelle initiative basée à l’UQAM visait à réunir les étudiants
-              francophones en statistique pour une journée de présentations de d’activités.
+              – Co-organisé le Sommet étudiant de la statistique à Montréal, qui s'est tenu à l’UQAM le 15 mars
+              2019. Cette nouvelle initiative visait à réunir les étudiants
+              francophones en statistique pour une journée de présentations.
               <a href="http://probability.ca/jeff/" target="_blank" rel="noreferrer"> Jeffrey S. Rosenthal </a>
               et
               <a href="https://sahirbhatnagar.com/" target="_blank" rel="noreferrer"> Sahir Rai Bhatnagar </a>
-              étaient nos deux conférenciers invités.
+              étaient nos conférenciers invités.
             </p>
           </li>
         </ul>

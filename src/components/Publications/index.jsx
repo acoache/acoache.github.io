@@ -9,6 +9,23 @@ function Publications() {
   return (
     <div id="Publications">
       <h3>Publications</h3>
+      <h4>Papers</h4>
+      <div className="papers">
+        <ul>
+          <li>
+            <p>
+              <b> Coache, A. </b> & Jaimungal, S.
+              Reinforcement Learning with Dynamic Convex Risk Measures.
+              December 2021.
+              <p>
+                [
+                <a href="https://arxiv.org/abs/2112.13414" target="_blank" rel="noreferrer">arXiv</a>
+                ]
+              </p>
+            </p>
+          </li>
+        </ul>
+      </div>
       <h4>Posters</h4>
       <div className="posters">
         <ul>
@@ -71,7 +88,7 @@ function Publications() {
               Minimizing Expectations course, University of Toronto. April 14, 2021.
               <p>
                 [
-                <a href="https://github.com/acoache/sta4273-final-project" target="_blank" rel="noreferrer">GitHub repo</a>
+                <a href="https://github.com/acoache/sta4273-final-project" target="_blank" rel="noreferrer">Github repo</a>
                 ]
               </p>
             </p>

@@ -10,9 +10,10 @@ function Presentations() {
           <li>
             <p>
               <b>Jan, 2022 </b>
-              – Visit of the
-              <a href="https://www.oxford-man.ox.ac.uk/" target="_blank" rel="noreferrer"> Oxford-Man Institute (OMI) </a>
-              for a 6 month period.
+              – Academic visitor at the
+              <a href="https://www.oxford-man.ox.ac.uk/" target="_blank" rel="noreferrer"> Oxford-Man Institute </a>
+              (University of Oxford) during a 6 month period, invited by
+              <a href="https://sites.google.com/site/alvarocartea/home" target="_blank" rel="noreferrer"> Prof. Álvaro Cartea</a>.
             </p>
           </li>
         </ul>
@@ -83,9 +84,9 @@ function Presentations() {
           <li>
             <p>
               <b>Mar, 2019 </b>
-              – Co-organized the Statistics Student Summit in Montreal that was held on March 15,
-              2019. This new initiative based at UQAM aimed at bringing together young
-              French-speaking statisticians for a day of talks and activities.
+              – Co-organized the Statistics Student Summit in Montreal, held at UQAM on March 15,
+              2019. This new initiative aimed at bringing together young
+              French-speaking statisticians for a day of talks.
               <a href="http://probability.ca/jeff/" target="_blank" rel="noreferrer"> Jeffrey S. Rosenthal </a>
               and
               <a href="https://sahirbhatnagar.com/" target="_blank" rel="noreferrer"> Sahir Rai Bhatnagar </a>

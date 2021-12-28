@@ -20,6 +20,7 @@ function Music() {
         <p>{musicDescription}</p>
         <hr />
         <div className="music_search">
+          <HashLink to="/music#Spotify">Spotify Playlists</HashLink>
           <HashLink to="/music#EDM">EDM</HashLink>
           <HashLink to="/music#FolkPop">Folk / Pop</HashLink>
           <HashLink to="/music#FutureHouse">Future House</HashLink>
@@ -28,8 +29,12 @@ function Music() {
           <HashLink to="/music#RBSoul">R&B / Soul</HashLink>
           <HashLink to="/music#TropicalHouse">Tropical House</HashLink>
           <HashLink to="/music#Misc">Misc</HashLink>
-          <HashLink to="/music#Spotify">Spotify Playlists</HashLink>
           <HashLink to="/music#Podcasts">Podcasts</HashLink> 
+        </div>
+        <h3 id="Spotify">Spotify Playlists</h3>
+        <div className="iframes">
+          <iframe src="https://open.spotify.com/embed/playlist/1c68dfP3PB6PnGMgeaHzaJ" allowtransparency="true" allow="encrypted-media" title="Music" frameBorder="0" />
+          <iframe src="https://open.spotify.com/embed/playlist/2p9LXP3yPPq0o2HQQB0VmB" allowtransparency="true" allow="encrypted-media" title="Music" frameBorder="0" />
         </div>
         <h3 id="EDM">EDM</h3>
         <p>Avicii, Vicetone, Tritonal, Audien, Disco Fries, Lucas & Steve</p>
@@ -83,11 +88,6 @@ function Music() {
           <iframe src="https://open.spotify.com/embed/artist/4LZ4De2MoO3lP6QaNCfvcu" allowtransparency="true" title="Music" frameBorder="0" />
           <iframe src="https://open.spotify.com/embed/artist/7C3Cbtr2PkH2l4tOGhtCsk" allowtransparency="true" title="Music" frameBorder="0" />
           <iframe scrolling="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/917915269&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true" title="Music" frameBorder="no" />
-        </div>
-        <h3 id="Spotify">Spotify Playlists</h3>
-        <div className="iframes">
-          <iframe src="https://open.spotify.com/embed/playlist/1c68dfP3PB6PnGMgeaHzaJ" allowtransparency="true" allow="encrypted-media" title="Music" frameBorder="0" />
-          <iframe src="https://open.spotify.com/embed/playlist/2p9LXP3yPPq0o2HQQB0VmB" allowtransparency="true" allow="encrypted-media" title="Music" frameBorder="0" />
         </div>
         <h3 id="Podcasts">Podcasts</h3>
         <div className="podcasts">

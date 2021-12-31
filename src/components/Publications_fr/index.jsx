@@ -9,7 +9,7 @@ function Publications() {
   return (
     <div id="Publications">
       <h3>Publications</h3>
-      <h4>Papers</h4>
+      <h4>Articles</h4>
       <div className="papers">
         <ul>
           <li>

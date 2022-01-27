@@ -16,12 +16,9 @@ function Presentations() {
           <li>
             <p>
               Reinforcement Learning with Dynamic Convex Risk Measures. SIAM Conference on
-              Financial Mathematics and Engineering. June 1, 2021.
-              <p>
-                [
+              Financial Mathematics and Engineering. June 1, 2021.    [
                 <a href={RLDynamicConvexRisk}>Slides</a>
                 ]
-              </p>
             </p>
           </li>
         </ul>
@@ -32,14 +29,11 @@ function Presentations() {
           <li>
             <p>
               Distilling Policy Distillation. Minimizing Expectations course, University of
-              Toronto. March 18, 2021.
-              <p>
-                [
+              Toronto. March 18, 2021.    [
                 <a href={DistillingPD}>Slides</a>
                 ] [
                 <a href="https://github.com/acoache/distilling-policy-distillation">Code notebook</a>
                 ]
-              </p>
             </p>
           </li>
         </ul>
@@ -47,14 +41,9 @@ function Presentations() {
           <li>
             <p>
               Risk-Sensitive Optimization in Reinforcement Learning. ACTSCI / MAFI
-              Research meeting, University of Toronto. January 28, 2021.
-              <p>
-                [
+              Research meeting, University of Toronto. January 28, 2021.    [
                 <a href={RiskSensitiveRL}>Slides</a>
-                ] [
-                <a href="https://github.com/acoache/knitr-beamer-3colors">Beamer template</a>
                 ]
-              </p>
             </p>
           </li>
         </ul>
@@ -62,14 +51,9 @@ function Presentations() {
           <li>
             <p>
               Stochastic Algorithms for Solving a Multi-period Quantile-Based
-              Portfolio Optimization Problem. Annual Meeting of the SSC, Calgary. May 27, 2019.
-              <p>
-                [
+              Portfolio Optimization Problem. Annual Meeting of the SSC, Calgary. May 27, 2019.    [
                 <a href={StochAlgo}>Slides</a>
-                ] [
-                <a href="https://github.com/acoache/knitr-beamer-3colors">Beamer template</a>
                 ]
-              </p>
             </p>
           </li>
         </ul>
@@ -88,12 +72,9 @@ function Presentations() {
           <li>
             <p>
               Matlab Bootcamp for Masters of Financial insurance students. University of Toronto.
-              January 6-7, 2021.
-              <p>
-                [
-                <a href="https://github.com/acoache/matlab-bootcamp-MFI">GitHub repo</a>
+              January 6-7, 2021.    [
+                <a href="https://github.com/acoache/matlab-bootcamp-MFI">Github</a>
                 ]
-              </p>
             </p>
           </li>
         </ul>

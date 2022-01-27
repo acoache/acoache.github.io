@@ -4,7 +4,6 @@ import RLDynamicConvexRisk from '../../media/RL-DynamicConvexRisk.pdf';
 import RiskSensitiveRL from '../../media/RiskSensitive_RL.pdf';
 import StochAlgo from '../../media/StochAlgo_Portfolio.pdf';
 import DistillingPD from '../../media/Distilling_PD.pdf';
-
 import './styles.scss';
 
 function Presentations() {
@@ -17,12 +16,9 @@ function Presentations() {
           <li>
             <p>
               Apprentissage par renforcement avec mesures de risque convexes et dynamiques.
-              SIAM Conference on Financial Mathematics and Engineering. 1 juin 2021.
-              <p>
-                [
+              SIAM Conference on Financial Mathematics and Engineering. 1 juin 2021.    [
                 <a href={RLDynamicConvexRisk}>Diapos</a>
                 ]
-              </p>
             </p>
           </li>
         </ul>
@@ -33,14 +29,11 @@ function Presentations() {
           <li>
             <p>
               Distiller la distillation de politiques. Minimizing Expectations course, University of
-              Toronto. 18 mars 2021.
-              <p>
-                [
+              Toronto. 18 mars 2021.    [
                 <a href={DistillingPD}>Diapos</a>
                 ] [
                 <a href="https://github.com/acoache/distilling-policy-distillation">Notebook Python</a>
                 ]
-              </p>
             </p>
           </li>
         </ul>
@@ -48,14 +41,9 @@ function Presentations() {
           <li>
             <p>
               Optimisation sensible au risque en apprentissage par renforcement.
-              Congrès de recherche ACTSCI / MAFI, University of Toronto. 28 janvier 2021.
-              <p>
-                [
+              Congrès de recherche ACTSCI / MAFI, University of Toronto. 28 janvier 2021.    [
                 <a href={RiskSensitiveRL}>Diapos</a>
-                ] [
-                <a href="https://github.com/acoache/knitr-beamer-3colors">Modèle de Beamer</a>
                 ]
-              </p>
             </p>
           </li>
         </ul>
@@ -63,14 +51,9 @@ function Presentations() {
           <li>
             <p>
               Algorithmes stochastiques pour résoudre un problème d’optimisation multi-périodique
-              de portefeuille basé sur un quantile. Congrès annuel de la SSC, Calgary. 27 mai 2019.
-              <p>
-                [
+              de portefeuille basé sur un quantile. Congrès annuel de la SSC, Calgary. 27 mai 2019.    [
                 <a href={StochAlgo}>Diapos</a>
-                ] [
-                <a href="https://github.com/acoache/knitr-beamer-3colors">Modèle de Beamer</a>
                 ]
-              </p>
             </p>
           </li>
         </ul>
@@ -89,12 +72,9 @@ function Presentations() {
           <li>
             <p>
               Tutoriel Matlab pour étudiants du programme de maîtrise en assurance financière.
-              University of Toronto. 6-7 janvier 2021.
-              <p>
-                [
-                <a href="https://github.com/acoache/matlab-bootcamp-MFI">Dépôt GitHub</a>
+              University of Toronto. 6-7 janvier 2021.    [
+                <a href="https://github.com/acoache/matlab-bootcamp-MFI">Github</a>
                 ]
-              </p>
             </p>
           </li>
         </ul>

@@ -61,6 +61,8 @@ function Publications() {
               Comparison of surveillance flu data across
               regions. Annual Meeting of the SSC, Winnipeg. June 12, 2017.    [
                 <a href={FluView} target="_blank" rel="noreferrer">Poster</a>
+                ] [
+                <a href="https://www.nature.com/articles/s41598-018-38292-x" target="_blank" rel="noreferrer">Paper</a>
                 ]
             </p>
           </li>

@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.49a82a70.chunk.css",
-    "main.js": "/static/js/main.a324251e.chunk.js",
-    "main.js.map": "/static/js/main.a324251e.chunk.js.map",
+    "main.js": "/static/js/main.2d971777.chunk.js",
+    "main.js.map": "/static/js/main.2d971777.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c3433ef0.js",
     "runtime-main.js.map": "/static/js/runtime-main.c3433ef0.js.map",
     "static/js/2.22a43f9b.chunk.js": "/static/js/2.22a43f9b.chunk.js",
@@ -15,6 +15,12 @@
     "static/media/10_Nine.b6f90896.mp3": "/static/media/10_Nine.b6f90896.mp3",
     "static/media/11_Reunion.34854255.mp3": "/static/media/11_Reunion.34854255.mp3",
     "static/media/12_Pachelbel.96cad7fd.mp3": "/static/media/12_Pachelbel.96cad7fd.mp3",
+    "static/media/13_YouAreTheReason.75cfb285.mp3": "/static/media/13_YouAreTheReason.75cfb285.mp3",
+    "static/media/14_WildEnough.8e9bafcf.mp3": "/static/media/14_WildEnough.8e9bafcf.mp3",
+    "static/media/15_Il.7e23eba4.mp3": "/static/media/15_Il.7e23eba4.mp3",
+    "static/media/16_Erin.f52e9d09.mp3": "/static/media/16_Erin.f52e9d09.mp3",
+    "static/media/17_SalutLesAmoureux.6890517b.mp3": "/static/media/17_SalutLesAmoureux.6890517b.mp3",
+    "static/media/18_AllOfMe.23022be7.mp3": "/static/media/18_AllOfMe.23022be7.mp3",
     "static/media/1_StThomas.fac5a149.mp3": "/static/media/1_StThomas.fac5a149.mp3",
     "static/media/2_Georgia.5b3347a0.mp3": "/static/media/2_Georgia.5b3347a0.mp3",
     "static/media/3_Quartet.b46f2b5d.mp3": "/static/media/3_Quartet.b46f2b5d.mp3",
@@ -30,6 +36,7 @@
     "static/media/Distilling_PD.04bbd225.pdf": "/static/media/Distilling_PD.04bbd225.pdf",
     "static/media/FluView.3b08accf.pdf": "/static/media/FluView.3b08accf.pdf",
     "static/media/RL-DynamicConvexRisk.08d9337b.pdf": "/static/media/RL-DynamicConvexRisk.08d9337b.pdf",
+    "static/media/RLWithDynamicConvexRisk.8ebfe7a8.pdf": "/static/media/RLWithDynamicConvexRisk.8ebfe7a8.pdf",
     "static/media/RiskSensitive_RL.1f302f75.pdf": "/static/media/RiskSensitive_RL.1f302f75.pdf",
     "static/media/StochAlgo_Portfolio.01daa294.pdf": "/static/media/StochAlgo_Portfolio.01daa294.pdf",
     "static/media/TEDtalks.37166047.pdf": "/static/media/TEDtalks.37166047.pdf",
@@ -42,6 +49,6 @@
     "static/js/runtime-main.c3433ef0.js",
     "static/js/2.22a43f9b.chunk.js",
     "static/css/main.49a82a70.chunk.css",
-    "static/js/main.a324251e.chunk.js"
+    "static/js/main.2d971777.chunk.js"
   ]
 }

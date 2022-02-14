@@ -4,6 +4,7 @@ import AdjustR2 from '../../media/Adjusted_Rsquared.pdf';
 import UncertaintyDeepQ from '../../media/UncertaintyDeepQ.pdf';
 import TedTalks from '../../media/TEDtalks.pdf';
 import FluView from '../../media/FluView.pdf';
+import RLWithDynamicConvexRisk from '../../media/RLWithDynamicConvexRisk.pdf';
 import './styles.scss';
 
 function Publications() {
@@ -21,6 +22,8 @@ function Publications() {
                 <a href="https://arxiv.org/abs/2112.13414" target="_blank" rel="noreferrer">arXiv</a>
                 ] [
                 <a href="https://github.com/acoache/RL-DynamicConvexRisk" target="_blank" rel="noreferrer">Code</a>
+                ] [
+                <a href={RLWithDynamicConvexRisk} target="_blank" rel="noreferrer">Diapos</a>
                 ]
             </p>
           </li>

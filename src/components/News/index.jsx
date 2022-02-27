@@ -10,7 +10,7 @@ function Presentations() {
           <li>
             <p>
               <b>Jan, 2022 </b>
-              – Academic visitor at the
+              – Visiting student at the
               <a href="https://www.oxford-man.ox.ac.uk/" target="_blank" rel="noreferrer"> Oxford-Man Institute </a>
               (University of Oxford) during a 6 month period, invited by
               <a href="https://sites.google.com/site/alvarocartea/home" target="_blank" rel="noreferrer"> Prof. Álvaro Cartea</a>.

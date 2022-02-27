@@ -10,7 +10,7 @@ function Presentations() {
           <li>
             <p>
               <b>Janv, 2022 </b>
-              – Visiteur académique à l'
+              – Étudiant étranger à l'
               <a href="https://www.oxford-man.ox.ac.uk/" target="_blank" rel="noreferrer"> Oxford-Man Institute </a>
               (Université d'Oxford) pendant une période de 6 mois, invité par
               <a href="https://sites.google.com/site/alvarocartea/home" target="_blank" rel="noreferrer"> Prof. Álvaro Cartea</a>.

@@ -14,6 +14,12 @@ import song9 from '../../media/9_ComeSailAway.mp3';
 import song10 from '../../media/10_Nine.mp3';
 import song11 from '../../media/11_Reunion.mp3';
 import song12 from '../../media/12_Pachelbel.mp3';
+import song13 from '../../media/13_YouAreTheReason.mp3';
+import song14 from '../../media/14_WildEnough.mp3';
+import song15 from '../../media/15_Il.mp3';
+import song16 from '../../media/16_Erin.mp3';
+import song17 from '../../media/17_SalutLesAmoureux.mp3';
+import song18 from '../../media/18_AllOfMe.mp3';
 import Band2Beat from '../../media/Band_2_Beat.mp4';
 import Menu from '../Menu';
 import pianoDescription from '../../static/pianoDescription';
@@ -30,6 +36,133 @@ function Piano() {
       <div className={mainStyle}>
         <h2>Piano</h2>
         <p>{pianoDescription}</p>
+        <hr />
+        <h2>Anthony Coache - EP (2021)</h2>
+        <p>
+          I recorded six songs, including a composition, for my girlfriend's birthday.
+        </p>
+        <div className="music">
+          <ul>
+            You Are the Reason (
+            <i>
+              Calum Scott
+            </i>
+            )
+            <br />
+            <audio
+              controls
+              src={song13}
+            >
+              <track
+                default
+                kind="captions"
+                srcLang="en"
+                src="/media/examples/friday.vtt"
+              />
+              Sorry, your browser does not support embedded audio.
+            </audio>
+          </ul>
+          <ul>
+            Wild Enough (
+            <i>
+              Elina
+            </i>
+            )
+            <br />
+            <audio
+              controls
+              src={song14}
+            >
+              <track
+                default
+                kind="captions"
+                srcLang="en"
+                src="/media/examples/friday.vtt"
+              />
+              Sorry, your browser does not support embedded audio.
+            </audio>
+          </ul>
+          <ul>
+            Il (
+            <i>
+              Jean-Michel Blais
+            </i>
+            )
+            <br />
+            <audio
+              controls
+              src={song15}
+            >
+              <track
+                default
+                kind="captions"
+                srcLang="en"
+                src="/media/examples/friday.vtt"
+              />
+              Sorry, your browser does not support embedded audio.
+            </audio>
+          </ul>
+          <ul>
+            Erin (
+            <i>
+              Anthony Coache
+            </i>
+            )
+            <br />
+            <audio
+              controls
+              src={song16}
+            >
+              <track
+                default
+                kind="captions"
+                srcLang="en"
+                src="/media/examples/friday.vtt"
+              />
+              Sorry, your browser does not support embedded audio.
+            </audio>
+          </ul>
+          <ul>
+            Salut les amoureux (
+            <i>
+              Joe Dassin
+            </i>
+            )
+            <br />
+            <audio
+              controls
+              src={song17}
+            >
+              <track
+                default
+                kind="captions"
+                srcLang="en"
+                src="/media/examples/friday.vtt"
+              />
+              Sorry, your browser does not support embedded audio.
+            </audio>
+          </ul>
+          <ul>
+            All of Me (
+            <i>
+              John Legend
+            </i>
+            )
+            <br />
+            <audio
+              controls
+              src={song18}
+            >
+              <track
+                default
+                kind="captions"
+                srcLang="en"
+                src="/media/examples/friday.vtt"
+              />
+              Sorry, your browser does not support embedded audio.
+            </audio>
+          </ul>
+        </div>
         <hr />
         <h2>Anthony Coache - CD (2011)</h2>
         <p>

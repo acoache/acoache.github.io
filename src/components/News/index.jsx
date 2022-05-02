@@ -11,7 +11,7 @@ function Presentations() {
             <p>
               <b>Jan, 2022 </b>
               – Visiting student at the
-              <a href="https://www.oxford-man.ox.ac.uk/" target="_blank" rel="noreferrer"> Oxford-Man Institute </a>
+              <a href="https://www.oxford-man.ox.ac.uk/who-we-are/people/" target="_blank" rel="noreferrer"> Oxford-Man Institute </a>
               (University of Oxford) during a 6 month period, invited by
               <a href="https://sites.google.com/site/alvarocartea/home" target="_blank" rel="noreferrer"> Prof. Álvaro Cartea</a>.
             </p>

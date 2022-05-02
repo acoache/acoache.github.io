@@ -1,6 +1,7 @@
 /* eslint-disable no-console */
 import React from 'react';
 import RLDynamicConvexRisk from '../../media/RL-DynamicConvexRisk.pdf';
+import DynamicCVaRElicitability from '../../media/DynamicCVaR_ElicitableRL.pdf';
 import RiskSensitiveRL from '../../media/RiskSensitive_RL.pdf';
 import StochAlgo from '../../media/StochAlgo_Portfolio.pdf';
 import DistillingPD from '../../media/Distilling_PD.pdf';
@@ -12,6 +13,16 @@ function Presentations() {
       <h3>Présentations</h3>
       <h4>Présentations invitées</h4>
       <div className="Invited">
+        <ul>
+          <li>
+            <p>
+              Optimisation de la CVaR dynamique sur des stratégies à l'aide de l'élicitabilité
+              conditionnelle. Oxford-Man Institute, Oxford. 6 mai 2022.    [
+                <a href={DynamicCVaRElicitability}>Diapos</a>
+                ]
+            </p>
+          </li>
+        </ul>
         <ul>
           <li>
             <p>

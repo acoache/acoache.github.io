@@ -1,6 +1,7 @@
 /* eslint-disable no-console */
 import React from 'react';
 import RLDynamicConvexRisk from '../../media/RL-DynamicConvexRisk.pdf';
+import DynamicCVaRElicitability from '../../media/DynamicCVaR_ElicitableRL.pdf';
 import RiskSensitiveRL from '../../media/RiskSensitive_RL.pdf';
 import StochAlgo from '../../media/StochAlgo_Portfolio.pdf';
 import DistillingPD from '../../media/Distilling_PD.pdf';
@@ -12,6 +13,16 @@ function Presentations() {
       <h3>Presentations</h3>
       <h4>Invited Talks</h4>
       <div className="Invited">
+        <ul>
+          <li>
+            <p>
+              Optimising a Dynamic Conditional Value-at-Risk over Policies using Conditional
+              Elicitability. Oxford-Man Institute, Oxford. May 6, 2022.    [
+                <a href={DynamicCVaRElicitability}>Slides</a>
+                ]
+            </p>
+          </li>
+        </ul>
         <ul>
           <li>
             <p>

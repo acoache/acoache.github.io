@@ -2,7 +2,7 @@
 import React from 'react';
 import RLDynamicConvexRisk from '../../media/RL-DynamicConvexRisk.pdf';
 import DynamicCVaRElicitability from '../../media/DynamicCVaR_ElicitableRL.pdf';
-import Bachelier from '../../media/RL-DynamicConvexRisk.pdf';
+import Bachelier from '../../media/BFS2022-RLDynamicRisk.pdf';
 import Informs from '../../media/RL-DynamicConvexRisk.pdf';
 import RiskSensitiveRL from '../../media/RiskSensitive_RL.pdf';
 import StochAlgo from '../../media/StochAlgo_Portfolio.pdf';
@@ -15,6 +15,16 @@ function Presentations() {
       <h3>Présentations</h3>
       <h4>Présentations invitées</h4>
       <div className="Invited">
+        <ul>
+          <li>
+            <p>
+              Apprentissage par renforcement pour mesures de risque dynamiques.
+              11th World Congress of the Bachelier Finance Society, Hong Kong. 15 juin 2022.    [
+                <a href={Bachelier}>Diapos</a>
+                ]
+            </p>
+          </li>
+        </ul>
         <ul>
           <li>
             <p>
@@ -81,6 +91,16 @@ function Presentations() {
       </div>
       <h4>Ateliers</h4>
       <div className="workshops">
+        <ul>
+          <li>
+            <p>
+              Tutoriel Python pour étudiants du programme de maîtrise en assurance financière.
+              University of Toronto. Septembre 2022.    [
+                <a href="https://github.com/acoache/python-bootcamp-MFI">Github</a>
+                ]
+            </p>
+          </li>
+        </ul>
         <ul>
           <li>
             <p>

@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.49a82a70.chunk.css",
-    "main.js": "/static/js/main.70029fcb.chunk.js",
-    "main.js.map": "/static/js/main.70029fcb.chunk.js.map",
+    "main.js": "/static/js/main.386ab6d8.chunk.js",
+    "main.js.map": "/static/js/main.386ab6d8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c3433ef0.js",
     "runtime-main.js.map": "/static/js/runtime-main.c3433ef0.js.map",
     "static/js/2.22a43f9b.chunk.js": "/static/js/2.22a43f9b.chunk.js",
@@ -31,6 +31,7 @@
     "static/media/8_DanseSmatte.1f078e5a.mp3": "/static/media/8_DanseSmatte.1f078e5a.mp3",
     "static/media/9_ComeSailAway.59431354.mp3": "/static/media/9_ComeSailAway.59431354.mp3",
     "static/media/Adjusted_Rsquared.8deafea5.pdf": "/static/media/Adjusted_Rsquared.8deafea5.pdf",
+    "static/media/BFS2022-RLDynamicRisk.c5c07ac2.pdf": "/static/media/BFS2022-RLDynamicRisk.c5c07ac2.pdf",
     "static/media/Band_2_Beat.8ca26aeb.mp4": "/static/media/Band_2_Beat.8ca26aeb.mp4",
     "static/media/main.scss": "/static/media/Roboto-Regular.a8d6ac03.ttf",
     "static/media/Distilling_PD.04bbd225.pdf": "/static/media/Distilling_PD.04bbd225.pdf",
@@ -42,14 +43,14 @@
     "static/media/StochAlgo_Portfolio.01daa294.pdf": "/static/media/StochAlgo_Portfolio.01daa294.pdf",
     "static/media/TEDtalks.37166047.pdf": "/static/media/TEDtalks.37166047.pdf",
     "static/media/UncertaintyDeepQ.3f063026.pdf": "/static/media/UncertaintyDeepQ.3f063026.pdf",
-    "static/media/cv_academic_en.c63bdc1f.pdf": "/static/media/cv_academic_en.c63bdc1f.pdf",
-    "static/media/cv_academic_fr.ab6ac6f1.pdf": "/static/media/cv_academic_fr.ab6ac6f1.pdf",
+    "static/media/cv_academic_en.70276f1a.pdf": "/static/media/cv_academic_en.70276f1a.pdf",
+    "static/media/cv_academic_fr.535a4291.pdf": "/static/media/cv_academic_fr.535a4291.pdf",
     "static/media/photo2.747420d4.jpg": "/static/media/photo2.747420d4.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c3433ef0.js",
     "static/js/2.22a43f9b.chunk.js",
     "static/css/main.49a82a70.chunk.css",
-    "static/js/main.70029fcb.chunk.js"
+    "static/js/main.386ab6d8.chunk.js"
   ]
 }

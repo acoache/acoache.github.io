@@ -16,9 +16,21 @@ function Publications() {
         <ul>
           <li>
             <p>
-              <b> Coache, A. </b> & Jaimungal, S.
+              <b> Coache, A.</b>, Jaimungal, S. & Cartea, Á. (Juin 2022)
+              Conditionally Elicitable Dynamic Risk Measures for Deep Reinforcement Learning. [
+                <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4149461" target="_blank" rel="noreferrer">SSRN</a>
+                ] [
+                <a href="https://github.com/acoache/RL-ElicitableDynamicRisk" target="_blank" rel="noreferrer">Code</a>
+                ] 
+            </p>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <p>
+              <b> Coache, A. </b> & Jaimungal, S. (Décembre 2021)
               Reinforcement Learning with Dynamic Convex Risk Measures.
-              Décembre 2021.    [
+                [
                 <a href="https://arxiv.org/abs/2112.13414" target="_blank" rel="noreferrer">arXiv</a>
                 ] [
                 <a href="https://github.com/acoache/RL-DynamicConvexRisk" target="_blank" rel="noreferrer">Code</a>
@@ -35,9 +47,9 @@ function Publications() {
           <li>
             <p>
               Binette, O. &
-              <b> Coache, A. </b>
-              The Significance of the Adjusted R Squared. (Bio)Statistics
-              Research Day, Montréal. 21 septembre 2018.    [
+              <b> Coache, A. </b> (21 septembre 2018)
+              The Significance of the Adjusted R Squared. <i>(Bio)Statistics
+              Research Day, Montréal.</i>    [
                 <a href={AdjustR2} target="_blank" rel="noreferrer">Affiche</a>
                 ] [
                 <a href="https://olivierbinette.github.io/posts/2020-11-15-the-significance-of-the-adjusted-r-squared-coefficient/" target="_blank" rel="noreferrer">Blogue</a>
@@ -49,8 +61,8 @@ function Publications() {
           <li>
             <p>
               <b> Coache, A. </b>
-              & Larose, F. “Do schools kill creativity?” Well, they help analyze
-              popularity! Congrès annuel de la SSC, Montréal. 4 juin 2018.    [
+              & Larose, F. (4 juin 2018) “Do schools kill creativity?” Well, they help analyze
+              popularity! <i>Congrès annuel de la SSC, Montréal.</i>    [
                 <a href={TedTalks} target="_blank" rel="noreferrer">Affiche</a>
                 ]
             </p>
@@ -60,9 +72,8 @@ function Publications() {
           <li>
             <p>
               Ferland, R., Froda, S. &
-              <b> Coache, A. </b>
-              Comparison of surveillance flu data across regions.
-              Congrès annuel de la SSC, Winnipeg. 12 juin 2017.    [
+              <b> Coache, A. </b>  (12 juin 2017)
+              Comparison of surveillance flu data across regions. <i>Congrès annuel de la SSC, Winnipeg.</i>    [
                 <a href={FluView} target="_blank" rel="noreferrer">Affiche</a>
                 ] [
                 <a href="https://www.nature.com/articles/s41598-018-38292-x" target="_blank" rel="noreferrer">Article</a>
@@ -77,9 +88,8 @@ function Publications() {
           <li>
             <p>
               Bilodeau, B. &
-              <b> Coache, A. </b>
-              Methods for Adding Explicit Uncertainty to Deep Q-Learning.
-              Minimizing Expectations course, University of Toronto. 14 avril 2021.    [
+              <b> Coache, A. </b> (14 avril 2021)
+              Methods for Adding Explicit Uncertainty to Deep Q-Learning. <i>Minimizing Expectations course, University of Toronto.</i>   [
                 <a href={UncertaintyDeepQ} target="_blank" rel="noreferrer">Rapport</a>
                 ] [
                 <a href="https://github.com/acoache/sta4273-final-project" target="_blank" rel="noreferrer">Code</a>

@@ -18,8 +18,8 @@ function Presentations() {
         <ul>
           <li>
             <p>
-              Reinforcement Learning for Dynamic Risk Measures.
-              11th World Congress of the Bachelier Finance Society, Hong Kong. June 15, 2022.    [
+              <i>11th World Congress of the Bachelier Finance Society, online.</i> (June 15, 2022)
+              Reinforcement Learning for Dynamic Risk Measures.    [
                 <a href={Bachelier}>Slides</a>
                 ]
             </p>
@@ -28,8 +28,9 @@ function Presentations() {
         <ul>
           <li>
             <p>
+              <i>Oxford-Man Institute Workshop, Oxford.</i> (May 6, 2022)
               Optimising a Dynamic Conditional Value-at-Risk over Policies using Conditional
-              Elicitability. Oxford-Man Institute, Oxford. May 6, 2022.    [
+              Elicitability.     [
                 <a href={DynamicCVaRElicitability}>Slides</a>
                 ]
             </p>
@@ -38,8 +39,8 @@ function Presentations() {
         <ul>
           <li>
             <p>
-              Reinforcement Learning with Dynamic Convex Risk Measures. SIAM Conference on
-              Financial Mathematics and Engineering. June 1, 2021.    [
+              <i>SIAM Conference on Financial Mathematics and Engineering, online.</i> (June 1, 2021)
+              Reinforcement Learning with Dynamic Convex Risk Measures.    [
                 <a href={RLDynamicConvexRisk}>Slides</a>
                 ]
             </p>
@@ -51,8 +52,8 @@ function Presentations() {
         <ul>
           <li>
             <p>
-              Distilling Policy Distillation. Minimizing Expectations course, University of
-              Toronto. March 18, 2021.    [
+              <i>Research Topics in Statistical Machine Learning, University of Toronto.</i> (March 18, 2021)
+              Distilling Policy Distillation.     [
                 <a href={DistillingPD}>Slides</a>
                 ] [
                 <a href="https://github.com/acoache/distilling-policy-distillation">Code notebook</a>
@@ -63,8 +64,8 @@ function Presentations() {
         <ul>
           <li>
             <p>
-              Risk-Sensitive Optimization in Reinforcement Learning. ACTSCI / MAFI
-              Research meeting, University of Toronto. January 28, 2021.    [
+              <i>ACTSCI / MAFI Research meeting, University of Toronto.</i> (January 28, 2021)
+              Risk-Sensitive Optimization in Reinforcement Learning.    [
                 <a href={RiskSensitiveRL}>Slides</a>
                 ]
             </p>
@@ -73,8 +74,9 @@ function Presentations() {
         <ul>
           <li>
             <p>
+              <i>Annual Meeting of the SSC, Calgary.</i> (May 27, 2019)
               Stochastic Algorithms for Solving a Multi-period Quantile-Based
-              Portfolio Optimization Problem. Annual Meeting of the SSC, Calgary. May 27, 2019.    [
+              Portfolio Optimization Problem.    [
                 <a href={StochAlgo}>Slides</a>
                 ]
             </p>
@@ -83,8 +85,8 @@ function Presentations() {
         <ul>
           <li>
             <p>
-              Non-Parametric Estimation of the Quantile Function. Probability and
-              Statistics Student Seminar - Université du Québec à Montréal. July 13, 2017.
+              <i>Probability and Statistics Student Seminar, Université du Québec à Montréal.</i> (July 13, 2017)
+              Non-Parametric Estimation of the Quantile Function.
             </p>
           </li>
         </ul>
@@ -94,8 +96,8 @@ function Presentations() {
         <ul>
           <li>
             <p>
-              Python Bootcamp for Masters of Financial insurance students. University of Toronto.
-              September 2022.    [
+              Python Bootcamp for Masters of Financial insurance students.
+              (September 2022) <i>University of Toronto.</i>                  [
                 <a href="https://github.com/acoache/python-bootcamp-MFI">Github</a>
                 ]
             </p>
@@ -104,8 +106,8 @@ function Presentations() {
         <ul>
           <li>
             <p>
-              Matlab Bootcamp for Masters of Financial insurance students. University of Toronto.
-              January 2021 & 2022.    [
+              Matlab Bootcamp for Masters of Financial insurance students.
+              (January 2021 & 2022) <i>University of Toronto.</i>                  [
                 <a href="https://github.com/acoache/matlab-bootcamp-MFI">Github</a>
                 ]
             </p>

@@ -33,6 +33,7 @@ function Music() {
         </div>
         <h3 id="Spotify">Spotify Playlists</h3>
         <div className="iframes">
+          <iframe src="https://open.spotify.com/embed/playlist/6RCEqNxzFFWonxfXNjMWVA" allowtransparency="true" allow="encrypted-media" title="Music" frameBorder="0" />
           <iframe src="https://open.spotify.com/embed/playlist/1c68dfP3PB6PnGMgeaHzaJ" allowtransparency="true" allow="encrypted-media" title="Music" frameBorder="0" />
           <iframe src="https://open.spotify.com/embed/playlist/2p9LXP3yPPq0o2HQQB0VmB" allowtransparency="true" allow="encrypted-media" title="Music" frameBorder="0" />
         </div>

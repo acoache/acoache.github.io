@@ -18,8 +18,8 @@ function Presentations() {
         <ul>
           <li>
             <p>
-              Apprentissage par renforcement pour mesures de risque dynamiques.
-              11th World Congress of the Bachelier Finance Society, Hong Kong. 15 juin 2022.    [
+              <i>11th World Congress of the Bachelier Finance Society, en ligne.</i> (15 juin 2022)
+              Apprentissage par renforcement pour mesures de risque dynamiques.    [
                 <a href={Bachelier}>Diapos</a>
                 ]
             </p>
@@ -28,8 +28,9 @@ function Presentations() {
         <ul>
           <li>
             <p>
+              <i>Oxford-Man Institute Workshop, Oxford.</i> (6 mai 2022)
               Optimisation de la CVaR dynamique sur des stratégies à l'aide de l'élicitabilité
-              conditionnelle. Oxford-Man Institute, Oxford. 6 mai 2022.    [
+              conditionnelle.    [
                 <a href={DynamicCVaRElicitability}>Diapos</a>
                 ]
             </p>
@@ -38,8 +39,8 @@ function Presentations() {
         <ul>
           <li>
             <p>
-              Apprentissage par renforcement avec mesures de risque convexes et dynamiques.
-              SIAM Conference on Financial Mathematics and Engineering. 1 juin 2021.    [
+              <i>SIAM Conference on Financial Mathematics and Engineering, en ligne.</i> (1 juin 2021)
+              Apprentissage par renforcement avec mesures de risque convexes et dynamiques.    [
                 <a href={RLDynamicConvexRisk}>Diapos</a>
                 ]
             </p>
@@ -51,8 +52,8 @@ function Presentations() {
         <ul>
           <li>
             <p>
-              Distiller la distillation de politiques. Minimizing Expectations course, University of
-              Toronto. 18 mars 2021.    [
+              <i>Research Topics in Statistical Machine Learning, University of Toronto.</i> (18 mars 2021)
+              Distiller la distillation de politiques.    [
                 <a href={DistillingPD}>Diapos</a>
                 ] [
                 <a href="https://github.com/acoache/distilling-policy-distillation">Notebook Python</a>
@@ -63,8 +64,8 @@ function Presentations() {
         <ul>
           <li>
             <p>
-              Optimisation sensible au risque en apprentissage par renforcement.
-              Congrès de recherche ACTSCI / MAFI, University of Toronto. 28 janvier 2021.    [
+              <i>Congrès de recherche ACTSCI / MAFI, University of Toronto.</i> (28 janvier 2021)
+              Optimisation sensible au risque en apprentissage par renforcement.    [
                 <a href={RiskSensitiveRL}>Diapos</a>
                 ]
             </p>
@@ -73,8 +74,9 @@ function Presentations() {
         <ul>
           <li>
             <p>
+              <i>Congrès annuel de la SSC, Calgary.</i> (27 mai 2019)
               Algorithmes stochastiques pour résoudre un problème d’optimisation multi-périodique
-              de portefeuille basé sur un quantile. Congrès annuel de la SSC, Calgary. 27 mai 2019.    [
+              de portefeuille basé sur un quantile.    [
                 <a href={StochAlgo}>Diapos</a>
                 ]
             </p>
@@ -83,8 +85,8 @@ function Presentations() {
         <ul>
           <li>
             <p>
-              Estimation non-paramétrique de la fonction quantile. Séminaire étudiant de
-              probabilités et statistique - Université du Québec à Montréal. 13 juillet 2017.
+              <i>Séminaire étudiant de probabilités et statistique, Université du Québec à Montréal. </i>
+              (13 juillet 2017) Estimation non-paramétrique de la fonction quantile.
             </p>
           </li>
         </ul>
@@ -95,7 +97,7 @@ function Presentations() {
           <li>
             <p>
               Tutoriel Python pour étudiants du programme de maîtrise en assurance financière.
-              University of Toronto. Septembre 2022.    [
+              (Septembre 2022) <i>University of Toronto.</i>    [
                 <a href="https://github.com/acoache/python-bootcamp-MFI">Github</a>
                 ]
             </p>
@@ -105,7 +107,7 @@ function Presentations() {
           <li>
             <p>
               Tutoriel Matlab pour étudiants du programme de maîtrise en assurance financière.
-              University of Toronto. Janvier 2021 & 2022.    [
+              (Janvier 2021 & 2022) <i>University of Toronto.</i>    [
                 <a href="https://github.com/acoache/matlab-bootcamp-MFI">Github</a>
                 ]
             </p>

@@ -9,10 +9,20 @@ function Presentations() {
         <ul>
           <li>
             <p>
+              <b>Sep, 2022 </b>
+              – Invited to present my research work at the
+              <a href="https://meetings.informs.org/wordpress/indianapolis2022" target="_blank" rel="noreferrer"> INFORMS Annual Meeting</a>
+              , in Indianapolis on October 16-19, 2022.
+            </p>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <p>
               <b>Jan, 2022 </b>
-              – Visiting student at the
-              <a href="https://www.oxford-man.ox.ac.uk/who-we-are/people/" target="_blank" rel="noreferrer"> Oxford-Man Institute </a>
-              (University of Oxford) during a 6 month period, invited by
+              – Visiting researcher at the
+              <a href="https://www.oxford-man.ox.ac.uk/who-we-are/people/" target="_blank" rel="noreferrer"> Oxford-Man Institute</a>
+              , University of Oxford, during a 6 month period; invited by
               <a href="https://sites.google.com/site/alvarocartea/home" target="_blank" rel="noreferrer"> Prof. Álvaro Cartea</a>.
             </p>
           </li>
@@ -22,9 +32,8 @@ function Presentations() {
             <p>
               <b>Sep, 2021 </b>
               – Member of the program committee for the
-              <a href="https://ai-finance.org/" target="_blank" rel="noreferrer"> ACM International Conference on AI in Finance </a>
-              , held online on November 3-5, 2021.
-              I was part of the double-blind peer-reviewed process.
+              <a href="https://ai-finance.org/" target="_blank" rel="noreferrer"> International Conference on AI in Finance</a>
+              ; part of the double-blind peer-reviewed process.
             </p>
           </li>
         </ul>
@@ -35,7 +44,7 @@ function Presentations() {
               – Member of the organizing committee for the
               <a href="https://ssc.ca/en/meetings/annual/2021-annual-meeting/ninth-annual-canadian-statistics-student-conference" target="_blank" rel="noreferrer"> Canadian Statistics Student Conference 2021</a>
               , held online (instead of at Memorial University in St. John’s due to COVID-19) on June
-              5, 2021. I was part of the translation team.
+              5, 2021.
             </p>
           </li>
         </ul>
@@ -56,7 +65,7 @@ function Presentations() {
               – Member of the organizing committee for the
               <a href="https://ssc.ca/en/meetings/annual/2020-annual-meeting/canadian-statistics-student-conference" target="_blank" rel="noreferrer"> Canadian Statistics Student Conference 2020</a>
               , held online (instead of at Carleton University in Ottawa due to COVID-19) on May 30,
-              2020. I was part of the translation team, chair of a session and chat moderator.
+              2020; part of the translation team, chair of a session and chat moderator.
             </p>
           </li>
         </ul>

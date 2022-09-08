@@ -9,10 +9,20 @@ function Presentations() {
         <ul>
           <li>
             <p>
+              <b>Sept, 2022 </b>
+              – Invité à présenter mes travaux de recherche au
+              <a href="https://meetings.informs.org/wordpress/indianapolis2022" target="_blank" rel="noreferrer"> Congrès annuel INFORMS</a>
+              , à Indianapolis du 16-19 octobre 2022.
+            </p>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <p>
               <b>Janv, 2022 </b>
               – Étudiant étranger à l'
-              <a href="https://www.oxford-man.ox.ac.uk/who-we-are/people/" target="_blank" rel="noreferrer"> Oxford-Man Institute </a>
-              (Université d'Oxford) pendant une période de 6 mois, invité par
+              <a href="https://www.oxford-man.ox.ac.uk/who-we-are/people/" target="_blank" rel="noreferrer"> Oxford-Man Institute</a>
+              , Université d'Oxford, pendant une période de 6 mois; invité par
               <a href="https://sites.google.com/site/alvarocartea/home" target="_blank" rel="noreferrer"> Prof. Álvaro Cartea</a>.
             </p>
           </li>
@@ -35,7 +45,7 @@ function Presentations() {
               – Membre du comité organisateur du
               <a href="https://ssc.ca/fr/congres/annuel/congres-annuel-2021/neuvieme-congres-canadien-etudiants-en-statistique" target="_blank" rel="noreferrer"> Congrès canadien des étudiants en statistique 2021</a>
               , qui s’est tenu en ligne (plutôt qu’à l’Université Memorial à Saint-Jean de Terre-Neuve
-              en raison de la COVID-19) le 5 juin 2021. Je faisais partie de l’équipe de traduction.
+              en raison de la COVID-19) le 5 juin 2021.
             </p>
           </li>
         </ul>

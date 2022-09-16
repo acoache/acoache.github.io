@@ -18,7 +18,15 @@ function Presentations() {
         <ul>
           <li>
             <p>
-              <i>11th World Congress of the Bachelier Finance Society, en ligne.</i> (15 juin 2022)
+              <i>Congrès annuel INFORMS, Indianapolis.</i> (18 Oct. 2022)
+              Apprentissage par renforcement pour mesures de risque dynamiques.
+            </p>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <p>
+              <i>11e Congrès modial de la Bachelier Finance Society, en ligne.</i> (15 juin 2022)
               Apprentissage par renforcement pour mesures de risque dynamiques.    [
                 <a href={Bachelier}>Diapos</a>
                 ]
@@ -64,7 +72,7 @@ function Presentations() {
         <ul>
           <li>
             <p>
-              <i>Congrès de recherche ACTSCI / MAFI, University of Toronto.</i> (28 janvier 2021)
+              <i>Congrès de recherche ACTSCI / MAFI, University of Toronto.</i> (28 janv. 2021)
               Optimisation sensible au risque en apprentissage par renforcement.    [
                 <a href={RiskSensitiveRL}>Diapos</a>
                 ]
@@ -86,7 +94,7 @@ function Presentations() {
           <li>
             <p>
               <i>Séminaire étudiant de probabilités et statistique, Université du Québec à Montréal. </i>
-              (13 juillet 2017) Estimation non-paramétrique de la fonction quantile.
+              (13 juil. 2017) Estimation non-paramétrique de la fonction quantile.
             </p>
           </li>
         </ul>
@@ -97,7 +105,7 @@ function Presentations() {
           <li>
             <p>
               Tutoriel Python pour étudiants du programme de maîtrise en assurance financière.
-              (Septembre 2022) <i>University of Toronto.</i>    [
+              (Sept. 2022) <i>University of Toronto.</i>    [
                 <a href="https://github.com/acoache/python-bootcamp-MFI">Github</a>
                 ]
             </p>
@@ -107,7 +115,7 @@ function Presentations() {
           <li>
             <p>
               Tutoriel Matlab pour étudiants du programme de maîtrise en assurance financière.
-              (Janvier 2021 & 2022) <i>University of Toronto.</i>    [
+              (Janv. 2021 & 2022) <i>University of Toronto.</i>    [
                 <a href="https://github.com/acoache/matlab-bootcamp-MFI">Github</a>
                 ]
             </p>

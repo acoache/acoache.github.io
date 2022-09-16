@@ -18,6 +18,14 @@ function Presentations() {
         <ul>
           <li>
             <p>
+              <i>INFORMS Annual Meeting, Indianapolis.</i> (Oct. 18, 2022)
+              Reinforcement Learning with Dynamic Risk Measures.
+            </p>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <p>
               <i>11th World Congress of the Bachelier Finance Society, online.</i> (June 15, 2022)
               Reinforcement Learning for Dynamic Risk Measures.    [
                 <a href={Bachelier}>Slides</a>
@@ -64,7 +72,7 @@ function Presentations() {
         <ul>
           <li>
             <p>
-              <i>ACTSCI / MAFI Research meeting, University of Toronto.</i> (January 28, 2021)
+              <i>ACTSCI / MAFI Research meeting, University of Toronto.</i> (Jan. 28, 2021)
               Risk-Sensitive Optimization in Reinforcement Learning.    [
                 <a href={RiskSensitiveRL}>Slides</a>
                 ]
@@ -97,7 +105,7 @@ function Presentations() {
           <li>
             <p>
               Python Bootcamp for Masters of Financial insurance students.
-              (September 2022) <i>University of Toronto.</i>                  [
+              (Sept. 2022) <i>University of Toronto.</i>                  [
                 <a href="https://github.com/acoache/python-bootcamp-MFI">Github</a>
                 ]
             </p>
@@ -107,7 +115,7 @@ function Presentations() {
           <li>
             <p>
               Matlab Bootcamp for Masters of Financial insurance students.
-              (January 2021 & 2022) <i>University of Toronto.</i>                  [
+              (Jan. 2021 & 2022) <i>University of Toronto.</i>                  [
                 <a href="https://github.com/acoache/matlab-bootcamp-MFI">Github</a>
                 ]
             </p>

@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.325df34e.chunk.css",
-    "main.js": "/static/js/main.7ba71ec9.chunk.js",
-    "main.js.map": "/static/js/main.7ba71ec9.chunk.js.map",
+    "main.js": "/static/js/main.2d503a1c.chunk.js",
+    "main.js.map": "/static/js/main.2d503a1c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c3433ef0.js",
     "runtime-main.js.map": "/static/js/runtime-main.c3433ef0.js.map",
     "static/js/2.22a43f9b.chunk.js": "/static/js/2.22a43f9b.chunk.js",
@@ -37,6 +37,7 @@
     "static/media/Distilling_PD.04bbd225.pdf": "/static/media/Distilling_PD.04bbd225.pdf",
     "static/media/DynamicCVaR_ElicitableRL.63a0f251.pdf": "/static/media/DynamicCVaR_ElicitableRL.63a0f251.pdf",
     "static/media/FluView.3b08accf.pdf": "/static/media/FluView.3b08accf.pdf",
+    "static/media/Informs2022_RLDynamicRisk.8446e81e.pdf": "/static/media/Informs2022_RLDynamicRisk.8446e81e.pdf",
     "static/media/RL-DynamicConvexRisk.08d9337b.pdf": "/static/media/RL-DynamicConvexRisk.08d9337b.pdf",
     "static/media/RLWithDynamicConvexRisk.8ebfe7a8.pdf": "/static/media/RLWithDynamicConvexRisk.8ebfe7a8.pdf",
     "static/media/RiskSensitive_RL.1f302f75.pdf": "/static/media/RiskSensitive_RL.1f302f75.pdf",
@@ -51,6 +52,6 @@
     "static/js/runtime-main.c3433ef0.js",
     "static/js/2.22a43f9b.chunk.js",
     "static/css/main.325df34e.chunk.css",
-    "static/js/main.7ba71ec9.chunk.js"
+    "static/js/main.2d503a1c.chunk.js"
   ]
 }

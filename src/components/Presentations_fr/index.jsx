@@ -3,7 +3,7 @@ import React from 'react';
 import RLDynamicConvexRisk from '../../media/RL-DynamicConvexRisk.pdf';
 import DynamicCVaRElicitability from '../../media/DynamicCVaR_ElicitableRL.pdf';
 import Bachelier from '../../media/BFS2022-RLDynamicRisk.pdf';
-import Informs from '../../media/RL-DynamicConvexRisk.pdf';
+import Informs from '../../media/Informs2022_RLDynamicRisk.pdf';
 import RiskSensitiveRL from '../../media/RiskSensitive_RL.pdf';
 import StochAlgo from '../../media/StochAlgo_Portfolio.pdf';
 import DistillingPD from '../../media/Distilling_PD.pdf';
@@ -20,6 +20,7 @@ function Presentations() {
             <p>
               <i>Congrès annuel INFORMS, Indianapolis.</i> (18 Oct. 2022)
               Apprentissage par renforcement pour mesures de risque dynamiques.
+                [<a href={Informs}>Diapos</a>]
             </p>
           </li>
         </ul>

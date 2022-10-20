@@ -9,7 +9,7 @@ function Presentations() {
         <ul>
           <li>
             <p>
-              <b>Sept, 2022 </b>
+              <b>Oct, 2022 </b>
               – Invité à présenter mes travaux de recherche au
               <a href="https://meetings.informs.org/wordpress/indianapolis2022" target="_blank" rel="noreferrer"> Congrès annuel INFORMS</a>
               , à Indianapolis du 16-19 octobre 2022.

@@ -21,7 +21,7 @@ function Presentations() {
             <p>
               <b>Janv, 2022 </b>
               – Étudiant étranger à l'
-              <a href="https://www.oxford-man.ox.ac.uk/who-we-are/people/" target="_blank" rel="noreferrer"> Oxford-Man Institute</a>
+              <a href="https://www.oxford-man.ox.ac.uk/previous-visitors/" target="_blank" rel="noreferrer"> Oxford-Man Institute</a>
               , Université d'Oxford, pendant une période de 6 mois; invité par
               <a href="https://sites.google.com/site/alvarocartea/home" target="_blank" rel="noreferrer"> Prof. Álvaro Cartea</a>.
             </p>

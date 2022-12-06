@@ -2,7 +2,7 @@
 import React from 'react';
 import Footer from '../../components/Footer';
 import DocumentMeta from 'react-document-meta';
-import headshot from '../../media/photo2.jpg';
+import headshot from '../../media/photo3.jpg';
 import interests from '../../static/researchInterests';
 import './styles.scss';
 import Menu from '../../components/Menu';

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.6c37f848.chunk.css",
-    "main.js": "/static/js/main.adff9d04.chunk.js",
-    "main.js.map": "/static/js/main.adff9d04.chunk.js.map",
+    "main.js": "/static/js/main.34269c1b.chunk.js",
+    "main.js.map": "/static/js/main.34269c1b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c3433ef0.js",
     "runtime-main.js.map": "/static/js/runtime-main.c3433ef0.js.map",
-    "static/js/2.22a43f9b.chunk.js": "/static/js/2.22a43f9b.chunk.js",
-    "static/js/2.22a43f9b.chunk.js.map": "/static/js/2.22a43f9b.chunk.js.map",
+    "static/js/2.9629fa17.chunk.js": "/static/js/2.9629fa17.chunk.js",
+    "static/js/2.9629fa17.chunk.js.map": "/static/js/2.9629fa17.chunk.js.map",
     "static/js/3.75298f1a.chunk.js": "/static/js/3.75298f1a.chunk.js",
     "static/js/3.75298f1a.chunk.js.map": "/static/js/3.75298f1a.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.6c37f848.chunk.css.map": "/static/css/main.6c37f848.chunk.css.map",
-    "static/js/2.22a43f9b.chunk.js.LICENSE.txt": "/static/js/2.22a43f9b.chunk.js.LICENSE.txt",
+    "static/js/2.9629fa17.chunk.js.LICENSE.txt": "/static/js/2.9629fa17.chunk.js.LICENSE.txt",
     "static/media/10_Nine.b6f90896.mp3": "/static/media/10_Nine.b6f90896.mp3",
     "static/media/11_Reunion.34854255.mp3": "/static/media/11_Reunion.34854255.mp3",
     "static/media/12_Pachelbel.96cad7fd.mp3": "/static/media/12_Pachelbel.96cad7fd.mp3",
@@ -37,6 +37,7 @@
     "static/media/Distilling_PD.04bbd225.pdf": "/static/media/Distilling_PD.04bbd225.pdf",
     "static/media/DynamicCVaR_ElicitableRL.63a0f251.pdf": "/static/media/DynamicCVaR_ElicitableRL.63a0f251.pdf",
     "static/media/FluView.3b08accf.pdf": "/static/media/FluView.3b08accf.pdf",
+    "static/media/GraduateResearchDay_2023.eaaf5a60.pdf": "/static/media/GraduateResearchDay_2023.eaaf5a60.pdf",
     "static/media/Informs2022_RLDynamicRisk.8446e81e.pdf": "/static/media/Informs2022_RLDynamicRisk.8446e81e.pdf",
     "static/media/RL-DynamicConvexRisk.08d9337b.pdf": "/static/media/RL-DynamicConvexRisk.08d9337b.pdf",
     "static/media/RLWithDynamicConvexRisk.8ebfe7a8.pdf": "/static/media/RLWithDynamicConvexRisk.8ebfe7a8.pdf",
@@ -44,14 +45,14 @@
     "static/media/StochAlgo_Portfolio.01daa294.pdf": "/static/media/StochAlgo_Portfolio.01daa294.pdf",
     "static/media/TEDtalks.37166047.pdf": "/static/media/TEDtalks.37166047.pdf",
     "static/media/UncertaintyDeepQ.3f063026.pdf": "/static/media/UncertaintyDeepQ.3f063026.pdf",
-    "static/media/cv_academic_en.95518fb1.pdf": "/static/media/cv_academic_en.95518fb1.pdf",
-    "static/media/cv_academic_fr.af2aa0b9.pdf": "/static/media/cv_academic_fr.af2aa0b9.pdf",
+    "static/media/cv_academic_en.0c69b77a.pdf": "/static/media/cv_academic_en.0c69b77a.pdf",
+    "static/media/cv_academic_fr.f4a73244.pdf": "/static/media/cv_academic_fr.f4a73244.pdf",
     "static/media/photo3.df28f2df.jpg": "/static/media/photo3.df28f2df.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c3433ef0.js",
-    "static/js/2.22a43f9b.chunk.js",
+    "static/js/2.9629fa17.chunk.js",
     "static/css/main.6c37f848.chunk.css",
-    "static/js/main.adff9d04.chunk.js"
+    "static/js/main.34269c1b.chunk.js"
   ]
 }

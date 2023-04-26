@@ -9,6 +9,16 @@ function Presentations() {
         <ul>
           <li>
             <p>
+              <b>Juin, 2023 </b>
+              – Invité à présenter mes travaux de recherche à
+              <a href="https://www.siam.org/conferences/cm/conference/fm23" target="_blank" rel="noreferrer"> SIAM Conference on Financial Mathematics and Engineering</a>
+              , à Philadelphie du 6-9 juin 2023.
+            </p>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <p>
               <b>Oct, 2022 </b>
               – Invité à présenter mes travaux de recherche au
               <a href="https://meetings.informs.org/wordpress/indianapolis2022" target="_blank" rel="noreferrer"> Congrès annuel INFORMS</a>

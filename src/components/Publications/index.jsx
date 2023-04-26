@@ -16,7 +16,7 @@ function Publications() {
         <ul>
           <li>
             <p>
-              <b> Coache, A.</b>, Jaimungal, S. & Cartea, Á. (June 2022)
+              <b> Coache, A.</b>, Jaimungal, S. & Cartea, Á.
               Conditionally Elicitable Dynamic Risk Measures for Deep Reinforcement Learning. [
                 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4149461" target="_blank" rel="noreferrer">SSRN</a>
                 ] [
@@ -28,9 +28,11 @@ function Publications() {
         <ul>
           <li>
             <p>
-              <b> Coache, A. </b> & Jaimungal, S. (December 2021)
+              <b> Coache, A. </b> & Jaimungal, S.
               Reinforcement Learning with Dynamic Convex Risk Measures.
                 [
+                <a href="https://doi.org/10.1111/mafi.12388" target="_blank" rel="noreferrer">MAFI</a>
+                ] [
                 <a href="https://arxiv.org/abs/2112.13414" target="_blank" rel="noreferrer">arXiv</a>
                 ] [
                 <a href="https://github.com/acoache/RL-DynamicConvexRisk" target="_blank" rel="noreferrer">Code</a>

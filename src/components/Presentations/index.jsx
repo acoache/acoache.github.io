@@ -4,6 +4,8 @@ import RLDynamicConvexRisk from '../../media/RL-DynamicConvexRisk.pdf';
 import DynamicCVaRElicitability from '../../media/DynamicCVaR_ElicitableRL.pdf';
 import Bachelier from '../../media/BFS2022-RLDynamicRisk.pdf';
 import Informs from '../../media/Informs2022_RLDynamicRisk.pdf';
+import GradResearchDay from '../../media/GraduateResearchDay_2023.pdf';
+import SIAM from '../../media/Informs2022_RLDynamicRisk.pdf';
 import RiskSensitiveRL from '../../media/RiskSensitive_RL.pdf';
 import StochAlgo from '../../media/StochAlgo_Portfolio.pdf';
 import DistillingPD from '../../media/Distilling_PD.pdf';
@@ -15,6 +17,15 @@ function Presentations() {
       <h3>Presentations</h3>
       <h4>Invited Talks</h4>
       <div className="Invited">
+        {/*<ul>
+          <li>
+            <p>
+              <i>SIAM Conference on Financial Mathematics and Engineering, Philadelphia.</i> (Jun. 9, 2023)
+              Title of the presentation.
+                [<a href={SIAM}>Slides</a>]
+            </p>
+          </li>
+        </ul>*/}
         <ul>
           <li>
             <p>
@@ -58,6 +69,16 @@ function Presentations() {
       </div>
       <h4>Contributed Talks</h4>
       <div className="contributed">
+        <ul>
+          <li>
+            <p>
+              <i>Statistics Graduate Student Research Day, University of Toronto.</i> (Apr. 27, 2023)
+              An Introduction to Risk-Aware RL with Dynamic Risk Measures.    [
+                <a href={GradResearchDay}>Slides</a>
+                ]
+            </p>
+          </li>
+        </ul>
         <ul>
           <li>
             <p>

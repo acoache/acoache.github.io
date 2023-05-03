@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.6c37f848.chunk.css",
-    "main.js": "/static/js/main.34269c1b.chunk.js",
-    "main.js.map": "/static/js/main.34269c1b.chunk.js.map",
+    "main.js": "/static/js/main.c8ea36ab.chunk.js",
+    "main.js.map": "/static/js/main.c8ea36ab.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c3433ef0.js",
     "runtime-main.js.map": "/static/js/runtime-main.c3433ef0.js.map",
     "static/js/2.9629fa17.chunk.js": "/static/js/2.9629fa17.chunk.js",
@@ -45,14 +45,14 @@
     "static/media/StochAlgo_Portfolio.01daa294.pdf": "/static/media/StochAlgo_Portfolio.01daa294.pdf",
     "static/media/TEDtalks.37166047.pdf": "/static/media/TEDtalks.37166047.pdf",
     "static/media/UncertaintyDeepQ.3f063026.pdf": "/static/media/UncertaintyDeepQ.3f063026.pdf",
-    "static/media/cv_academic_en.0c69b77a.pdf": "/static/media/cv_academic_en.0c69b77a.pdf",
-    "static/media/cv_academic_fr.f4a73244.pdf": "/static/media/cv_academic_fr.f4a73244.pdf",
+    "static/media/cv_academic_en.ea8c3b21.pdf": "/static/media/cv_academic_en.ea8c3b21.pdf",
+    "static/media/cv_academic_fr.45242081.pdf": "/static/media/cv_academic_fr.45242081.pdf",
     "static/media/photo3.df28f2df.jpg": "/static/media/photo3.df28f2df.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c3433ef0.js",
     "static/js/2.9629fa17.chunk.js",
     "static/css/main.6c37f848.chunk.css",
-    "static/js/main.34269c1b.chunk.js"
+    "static/js/main.c8ea36ab.chunk.js"
   ]
 }

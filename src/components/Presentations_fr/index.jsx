@@ -1,6 +1,7 @@
 /* eslint-disable no-console */
 import React from 'react';
 import RLDynamicConvexRisk from '../../media/RL-DynamicConvexRisk.pdf';
+import OMIRLDynamicConvexRisk from '../../media/OMI2022_RLDynamicConvex.pdf';
 import DynamicCVaRElicitability from '../../media/DynamicCVaR_ElicitableRL.pdf';
 import Bachelier from '../../media/BFS2022-RLDynamicRisk.pdf';
 import Informs from '../../media/Informs2022_RLDynamicRisk.pdf';
@@ -21,15 +22,24 @@ function Presentations() {
           <li>
             <p>
               <i>SIAM Conference on Financial Mathematics and Engineering, Philadelphie.</i> (9 juin 2023)
-              Titre de la présentation.
-                [<a href={SIAM}>Diapos</a>]
+              Robust Reinforcement Learning for Dynamic Risk Measures.
+                [<a href={SIAM}>Slides</a>]
+            </p>
+          </li>
+        </ul>*/}
+        {/*<ul>
+          <li>
+            <p>
+              <i>SIAG/FME Conference Paper Prize Session, Philadelphie.</i> (9 juin 2023)
+              Conditionally Elicitable Dynamic Risk Measures for Deep Reinforcement Learning.
+                [<a href={SIAM}>Slides</a>]
             </p>
           </li>
         </ul>*/}
         <ul>
           <li>
             <p>
-              <i>Congrès annuel INFORMS, Indianapolis.</i> (18 Oct. 2022)
+              <i>Congrès annuel INFORMS, Indianapolis.</i> (18 oct. 2022)
               Apprentissage par renforcement pour mesures de risque dynamiques.
                 [<a href={Informs}>Diapos</a>]
             </p>
@@ -75,6 +85,16 @@ function Presentations() {
               <i>Statistics Graduate Student Research Day, University of Toronto.</i> (27 avril 2023)
               Introduction au risk-aware RL avec mesures de risque dynamiques.    [
                 <a href={GradResearchDay}>Diapos</a>
+                ]
+            </p>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <p>
+              <i>Oxford-Man Institute Visitor Presentations, Oxford.</i> (11 mars 2022)
+              Apprentissage par renforcement avec mesures de risque convexes et dynamiques.     [
+                <a href={OMIRLDynamicConvexRisk}>Diapos</a>
                 ]
             </p>
           </li>

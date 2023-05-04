@@ -1,6 +1,7 @@
 /* eslint-disable no-console */
 import React from 'react';
 import RLDynamicConvexRisk from '../../media/RL-DynamicConvexRisk.pdf';
+import OMIRLDynamicConvexRisk from '../../media/OMI2022_RLDynamicConvex.pdf';
 import DynamicCVaRElicitability from '../../media/DynamicCVaR_ElicitableRL.pdf';
 import Bachelier from '../../media/BFS2022-RLDynamicRisk.pdf';
 import Informs from '../../media/Informs2022_RLDynamicRisk.pdf';
@@ -21,7 +22,16 @@ function Presentations() {
           <li>
             <p>
               <i>SIAM Conference on Financial Mathematics and Engineering, Philadelphia.</i> (Jun. 9, 2023)
-              Title of the presentation.
+              Robust Reinforcement Learning for Dynamic Risk Measures.
+                [<a href={SIAM}>Slides</a>]
+            </p>
+          </li>
+        </ul>*/}
+        {/*<ul>
+          <li>
+            <p>
+              <i>SIAG/FME Conference Paper Prize Session, Philadelphia.</i> (Jun. 9, 2023)
+              Conditionally Elicitable Dynamic Risk Measures for Deep Reinforcement Learning.
                 [<a href={SIAM}>Slides</a>]
             </p>
           </li>
@@ -82,7 +92,17 @@ function Presentations() {
         <ul>
           <li>
             <p>
-              <i>Research Topics in Statistical Machine Learning, University of Toronto.</i> (March 18, 2021)
+              <i>Oxford-Man Institute Visitor Presentations, Oxford.</i> (Mar. 11, 2022)
+              Reinforcement Learning with Dynamic Convex Risk Measures.     [
+                <a href={OMIRLDynamicConvexRisk}>Slides</a>
+                ]
+            </p>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <p>
+              <i>Research Topics in Statistical Machine Learning, University of Toronto.</i> (Mar. 18, 2021)
               Distilling Policy Distillation.     [
                 <a href={DistillingPD}>Slides</a>
                 ] [

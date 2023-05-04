@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.6c37f848.chunk.css",
-    "main.js": "/static/js/main.c8ea36ab.chunk.js",
-    "main.js.map": "/static/js/main.c8ea36ab.chunk.js.map",
+    "main.js": "/static/js/main.f6dedc72.chunk.js",
+    "main.js.map": "/static/js/main.f6dedc72.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c3433ef0.js",
     "runtime-main.js.map": "/static/js/runtime-main.c3433ef0.js.map",
     "static/js/2.9629fa17.chunk.js": "/static/js/2.9629fa17.chunk.js",
@@ -39,20 +39,20 @@
     "static/media/FluView.3b08accf.pdf": "/static/media/FluView.3b08accf.pdf",
     "static/media/GraduateResearchDay_2023.eaaf5a60.pdf": "/static/media/GraduateResearchDay_2023.eaaf5a60.pdf",
     "static/media/Informs2022_RLDynamicRisk.8446e81e.pdf": "/static/media/Informs2022_RLDynamicRisk.8446e81e.pdf",
+    "static/media/OMI2022_RLDynamicConvex.e06eb80c.pdf": "/static/media/OMI2022_RLDynamicConvex.e06eb80c.pdf",
     "static/media/RL-DynamicConvexRisk.08d9337b.pdf": "/static/media/RL-DynamicConvexRisk.08d9337b.pdf",
-    "static/media/RLWithDynamicConvexRisk.8ebfe7a8.pdf": "/static/media/RLWithDynamicConvexRisk.8ebfe7a8.pdf",
     "static/media/RiskSensitive_RL.1f302f75.pdf": "/static/media/RiskSensitive_RL.1f302f75.pdf",
     "static/media/StochAlgo_Portfolio.01daa294.pdf": "/static/media/StochAlgo_Portfolio.01daa294.pdf",
     "static/media/TEDtalks.37166047.pdf": "/static/media/TEDtalks.37166047.pdf",
     "static/media/UncertaintyDeepQ.3f063026.pdf": "/static/media/UncertaintyDeepQ.3f063026.pdf",
-    "static/media/cv_academic_en.ea8c3b21.pdf": "/static/media/cv_academic_en.ea8c3b21.pdf",
-    "static/media/cv_academic_fr.45242081.pdf": "/static/media/cv_academic_fr.45242081.pdf",
+    "static/media/cv_academic_en.d8b642d6.pdf": "/static/media/cv_academic_en.d8b642d6.pdf",
+    "static/media/cv_academic_fr.2179f59b.pdf": "/static/media/cv_academic_fr.2179f59b.pdf",
     "static/media/photo3.df28f2df.jpg": "/static/media/photo3.df28f2df.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c3433ef0.js",
     "static/js/2.9629fa17.chunk.js",
     "static/css/main.6c37f848.chunk.css",
-    "static/js/main.c8ea36ab.chunk.js"
+    "static/js/main.f6dedc72.chunk.js"
   ]
 }

@@ -6,7 +6,8 @@ import DynamicCVaRElicitability from '../../media/DynamicCVaR_ElicitableRL.pdf';
 import Bachelier from '../../media/BFS2022-RLDynamicRisk.pdf';
 import Informs from '../../media/Informs2022_RLDynamicRisk.pdf';
 import GradResearchDay from '../../media/GraduateResearchDay_2023.pdf';
-import SIAM from '../../media/Informs2022_RLDynamicRisk.pdf';
+import SIAMRobustRL from '../../media/SIAM_RobustRL_2023.pdf';
+import SIAMElicitablePrize from '../../media/SIAM_FMEPrize_2023.pdf';
 import RiskSensitiveRL from '../../media/RiskSensitive_RL.pdf';
 import StochAlgo from '../../media/StochAlgo_Portfolio.pdf';
 import DistillingPD from '../../media/Distilling_PD.pdf';
@@ -18,24 +19,24 @@ function Presentations() {
       <h3>Presentations</h3>
       <h4>Invited Talks</h4>
       <div className="Invited">
-        {/*<ul>
+        <ul>
           <li>
             <p>
-              <i>SIAM Conference on Financial Mathematics and Engineering, Philadelphia.</i> (Jun. 9, 2023)
+              <i>SIAM Conference on Financial Mathematics and Engineering, Philadelphia.</i> (June 9, 2023)
               Robust Reinforcement Learning for Dynamic Risk Measures.
-                [<a href={SIAM}>Slides</a>]
+                [<a href={SIAMRobustRL}>Slides</a>]
             </p>
           </li>
-        </ul>*/}
-        {/*<ul>
+        </ul>
+        <ul>
           <li>
             <p>
-              <i>SIAG/FME Conference Paper Prize Session, Philadelphia.</i> (Jun. 9, 2023)
+              <i>SIAG/FME Conference Paper Prize Session, Philadelphia.</i> (June 9, 2023)
               Conditionally Elicitable Dynamic Risk Measures for Deep Reinforcement Learning.
-                [<a href={SIAM}>Slides</a>]
+                [<a href={SIAMElicitablePrize}>Slides</a>]
             </p>
           </li>
-        </ul>*/}
+        </ul>
         <ul>
           <li>
             <p>

@@ -40,6 +40,25 @@ function Publications() {
           </li>
         </ul>
       </div>
+      <h4>Travaux en cours</h4>
+      <div className="progress">
+        <ul>
+          <li>
+            <p>
+              <b> Coache, A.</b>, Jaimungal, S. & Cartea, Á.
+              Robust Reinforcement Learning with Dynamic Risk Measures.
+            </p>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <p>
+              Cheng, Z., Jaimungal, S. & <b> Coache, A. </b>
+              Learning Risk Aversion with Inverse Reinforcement Learning.
+            </p>
+          </li>
+        </ul>
+      </div>
       <h4>Affiches</h4>
       <div className="posters">
         <ul>

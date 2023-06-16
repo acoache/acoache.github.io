@@ -1,3 +1,3 @@
-const txt = '2023-06-07';
+const txt = '2023-06-15';
 
 export default txt;

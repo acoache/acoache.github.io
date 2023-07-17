@@ -16,7 +16,10 @@ function Publications() {
           <li>
             <p>
               <b> Coache, A.</b>, Jaimungal, S. & Cartea, Á.
-              Conditionally Elicitable Dynamic Risk Measures for Deep Reinforcement Learning. [
+              Conditionally Elicitable Dynamic Risk Measures for Deep Reinforcement Learning.
+                [
+                <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4149461" target="_blank" rel="noreferrer">SIFIN</a>
+                ] [
                 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4149461" target="_blank" rel="noreferrer">SSRN</a>
                 ] [
                 <a href="https://github.com/acoache/RL-ElicitableDynamicRisk" target="_blank" rel="noreferrer">Code</a>

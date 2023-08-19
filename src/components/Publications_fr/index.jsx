@@ -15,7 +15,18 @@ function Publications() {
         <ul>
           <li>
             <p>
-              <b> Coache, A.</b>, Jaimungal, S. & Cartea, Á.
+              Z. Cheng, <b> A. Coache</b>, & S. Jaimungal.
+              Eliciting Risk Aversion with Inverse Reinforcement Learning via Interactive Questioning.
+                [
+                <a href="https://arxiv.org/abs/2308.08427" target="_blank" rel="noreferrer">arXiv</a>
+                ]
+            </p>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <p>
+              <b> A. Coache</b>, S. Jaimungal, & Á. Cartea.
               Conditionally Elicitable Dynamic Risk Measures for Deep Reinforcement Learning.
                 [
                 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4149461" target="_blank" rel="noreferrer">SIFIN</a>
@@ -30,7 +41,7 @@ function Publications() {
         <ul>
           <li>
             <p>
-              <b> Coache, A. </b> & Jaimungal, S.
+              <b> A. Coache</b>, & S. Jaimungal.
               Reinforcement Learning with Dynamic Convex Risk Measures.
                 [
                 <a href="https://doi.org/10.1111/mafi.12388" target="_blank" rel="noreferrer">MAFI</a>
@@ -48,16 +59,8 @@ function Publications() {
         <ul>
           <li>
             <p>
-              <b> Coache, A.</b>, Jaimungal, S. & Cartea, Á.
+              <b> A. Coache</b>, & S. Jaimungal.
               Robust Reinforcement Learning with Dynamic Risk Measures.
-            </p>
-          </li>
-        </ul>
-        <ul>
-          <li>
-            <p>
-              Cheng, Z., Jaimungal, S. & <b> Coache, A. </b>
-              Learning Risk Aversion with Inverse Reinforcement Learning.
             </p>
           </li>
         </ul>
@@ -67,8 +70,7 @@ function Publications() {
         <ul>
           <li>
             <p>
-              Binette, O. &
-              <b> Coache, A. </b> (21 sept. 2018)
+              O. Binette, & <b> A. Coache</b>. (21 sept. 2018)
               The Significance of the Adjusted R Squared. <i>(Bio)Statistics
               Research Day, Montréal.</i>    [
                 <a href={AdjustR2} target="_blank" rel="noreferrer">Affiche</a>
@@ -81,8 +83,7 @@ function Publications() {
         <ul>
           <li>
             <p>
-              <b> Coache, A. </b>
-              & Larose, F. (4 juin 2018) “Do schools kill creativity?” Well, they help analyze
+              <b> A. Coache</b>, & F. Larose. (4 juin 2018) “Do schools kill creativity?” Well, they help analyze
               popularity! <i>Congrès annuel de la SSC, Montréal.</i>    [
                 <a href={TedTalks} target="_blank" rel="noreferrer">Affiche</a>
                 ]
@@ -92,8 +93,7 @@ function Publications() {
         <ul>
           <li>
             <p>
-              Ferland, R., Froda, S. &
-              <b> Coache, A. </b>  (12 juin 2017)
+              R. Ferland, S. Froda, & <b> A. Coache</b>.  (12 juin 2017)
               Comparison of surveillance flu data across regions. <i>Congrès annuel de la SSC, Winnipeg.</i>    [
                 <a href={FluView} target="_blank" rel="noreferrer">Affiche</a>
                 ] [
@@ -108,8 +108,7 @@ function Publications() {
         <ul>
           <li>
             <p>
-              Bilodeau, B. &
-              <b> Coache, A. </b> (14 avril 2021)
+              B. Bilodeau, & <b> A. Coache</b>. (14 avril 2021)
               Methods for Adding Explicit Uncertainty to Deep Q-Learning. <i>Minimizing Expectations course, University of Toronto.</i>   [
                 <a href={UncertaintyDeepQ} target="_blank" rel="noreferrer">Rapport</a>
                 ] [

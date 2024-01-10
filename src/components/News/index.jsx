@@ -9,6 +9,16 @@ function Presentations() {
         <ul>
           <li>
             <p>
+              <b>Feb, 2024 </b>
+              – Invited to present my research work at the
+              <a href="https://statqam.uqam.ca/" target="_blank" rel="noreferrer"> STATQAM Seminar</a>
+              , in Montréal on February 15, 2024.
+            </p>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <p>
               <b>Jun, 2023 </b>
               – Recipient of the DoSS Doctoral Early Research Excellence Award from the University of Toronto.
             </p>

@@ -1,5 +1,6 @@
 /* eslint-disable no-console */
 import React from 'react';
+import RobustRL from '../../media/Fields_CFI2023_poster.pdf'
 import AdjustR2 from '../../media/Adjusted_Rsquared.pdf';
 import UncertaintyDeepQ from '../../media/UncertaintyDeepQ.pdf';
 import TedTalks from '../../media/TEDtalks.pdf';
@@ -29,7 +30,7 @@ function Publications() {
               <b> A. Coache</b>, S. Jaimungal, & Á. Cartea.
               Conditionally Elicitable Dynamic Risk Measures for Deep Reinforcement Learning.
                 [
-                <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4149461" target="_blank" rel="noreferrer">SIFIN</a>
+                <a href="https://epubs.siam.org/doi/10.1137/22M1527209" target="_blank" rel="noreferrer">SIFIN</a>
                 ] [
                 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4149461" target="_blank" rel="noreferrer">SSRN</a>
                 ] [
@@ -67,6 +68,16 @@ function Publications() {
       </div>
       <h4>Affiches</h4>
       <div className="posters">
+        <ul>
+          <li>
+            <p>
+              <b> A. Coache</b>. (25 sept. 2023)
+              Robust Reinforcement Learning with Dynamic Risk Measures. <i>Fields-CFI Conference on Recent Advances in Mathematical Finance and Insurance, Toronto.</i>    [
+                <a href={RobustRL} target="_blank" rel="noreferrer">Affiche</a>
+                ]
+            </p>
+          </li>
+        </ul>
         <ul>
           <li>
             <p>

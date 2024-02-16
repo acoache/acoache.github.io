@@ -9,6 +9,7 @@ import GradResearchDay from '../../media/GraduateResearchDay_2023.pdf';
 import SIAMRobustRL from '../../media/SIAM_RobustRL_2023.pdf';
 import SIAMElicitablePrize from '../../media/SIAM_FMEPrize_2023.pdf';
 import RiskSensitiveRL from '../../media/RiskSensitive_RL.pdf';
+import SeminarSTATQAM from '../../media/STATQAM_slides_2024.pdf';
 import StochAlgo from '../../media/StochAlgo_Portfolio.pdf';
 import DistillingPD from '../../media/Distilling_PD.pdf';
 import './styles.scss';
@@ -19,6 +20,15 @@ function Presentations() {
       <h3>Presentations</h3>
       <h4>Invited Talks</h4>
       <div className="Invited">
+        <ul>
+          <li>
+            <p>
+              <i>STATMAM Seminar, Montréal.</i> (Feb. 15, 2024)
+              Une introduction à l’apprentissage par renforcement sensible au risque avec des mesures de risque dynamiques.
+                [<a href={SeminarSTATQAM}>Slides</a>]
+            </p>
+          </li>
+        </ul>
         <ul>
           <li>
             <p>

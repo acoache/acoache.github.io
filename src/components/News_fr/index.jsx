@@ -82,43 +82,12 @@ function Presentations() {
         <ul>
           <li>
             <p>
-              <b>Janv, 2021 </b>
-              – Préparé et dirigé un
-              <a href="https://github.com/acoache/matlab-bootcamp-MFI" target="_blank" rel="noreferrer"> tutoriel Matlab </a>
-              pour les étudiants du programme de maîtrise en assurance financière à UofT.
-            </p>
-          </li>
-        </ul>
-        <ul>
-          <li>
-            <p>
               <b>Mai, 2020 </b>
               – Membre du comité organisateur du
               <a href="https://ssc.ca/fr/congres/annuel/congres-annuel-2020/congres-canadien-etudiants-en-statistique" target="_blank" rel="noreferrer"> Congrès canadien des étudiants en statistique 2020</a>
               , qui s’est tenu en ligne (plutôt qu’à l’Université Carleton à Ottawa en raison de la
               COVID-19) le 30 mai 2020. Je faisais partie de l’équipe de traduction, j’étais
               président d'une session et modérateur.
-            </p>
-          </li>
-        </ul>
-        <ul>
-          <li>
-            <p>
-              <b>Janv, 2020 </b>
-              – Assistant de recherche pour Prof. Sebastian Jaimungal, travaillant sur une
-              <a href="https://cqam.ca/finance-labs/systemic-risk-analytics/" target="_blank" rel="noreferrer"> collaboration entre Fields CQAM et Oanda</a>
-              .
-            </p>
-          </li>
-        </ul>
-        <ul>
-          <li>
-            <p>
-              <b>Sept, 2019 </b>
-              – Découvert l’
-              <a href="http://art-aleatoire.com/" target="_blank" rel="noreferrer">art aléatoire</a>
-              , c’est-à-dire appliquer une “force stochastique” pour rendre une création
-              complètement unique.
             </p>
           </li>
         </ul>
@@ -133,20 +102,6 @@ function Presentations() {
               et
               <a href="https://sahirbhatnagar.com/" target="_blank" rel="noreferrer"> Sahir Rai Bhatnagar </a>
               étaient nos conférenciers invités.
-            </p>
-          </li>
-        </ul>
-        <ul>
-          <li>
-            <p>
-              <b>Févr, 2019 </b>
-              – Contribué au
-              <a href="https://github.com/OlivierBinette/Guide-des-bourses-UQAM" target="_blank" rel="noreferrer"> guide de soutien au développement professionnel pour les étudiants en maths-stat à l’UQAM</a>
-              , un travail initié par mon ami
-              <a href="https://olivierbinette.github.io/" target="_blank" rel="noreferrer"> Olivier Binette</a>
-              . Ce guide propose plusieurs exemples d’applications réussies à des
-              bourses (CVs, « statement of purpose », etc.) d’étudiants de l’UQAM
-              en plus d’offrir des liens à différentes ressources utiles.
             </p>
           </li>
         </ul>

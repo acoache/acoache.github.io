@@ -1,6 +1,7 @@
 import React from 'react';
 import Footer from '../../components/Footer_fr';
 import DocumentMeta from 'react-document-meta';
+import { HashLink } from 'react-router-hash-link';
 import './styles.scss';
 import song1 from '../../media/1_StThomas.mp3';
 import song2 from '../../media/2_Georgia.mp3';
@@ -37,7 +38,12 @@ function Piano() {
         <h2>Piano</h2>
         <p>{pianoDescription}</p>
         <hr />
-        <h2>Anthony Coache - EP (2021)</h2>
+        <div className="piano_search">
+          <HashLink to="/piano#EP2021">Anthony Coache - EP (2021)</HashLink>
+          <HashLink to="/piano#CD2011">Anthony Coache - CD (2011)</HashLink>
+          <HashLink to="/piano#Band2Beat">Band 2 Beat! (2009)</HashLink>
+        </div>
+        <h3 id="EP2021">Anthony Coache - EP (2021)</h3>
         <p>
           J’ai enregistré six chansons, dont une composition, pour l'anniversaire de me petite-amie.
         </p>
@@ -164,7 +170,7 @@ function Piano() {
           </ul>
         </div>
         <hr />
-        <h2>Anthony Coache - CD (2011)</h2>
+        <h3 id="CD2011">Anthony Coache - CD (2011)</h3>
         <p>
           J’ai produit un album non commercialisé de douze chansons lorsque j’étais en secondaire 5.
           L’album inclut plusieurs reprises ainsi que deux compositions.
@@ -412,7 +418,7 @@ function Piano() {
           </ul>
         </div>
         <hr />
-        <h2>Band 2 Beat! (2009)</h2>
+        <h3 id="Band2Beat">Band 2 Beat! (2009)</h3>
         <p>
           J’ai joué au Camp de Blues lors du Festival international de Jazz de Montréal en 2009
           lorsque j’avais 13 ans. Vous pouvez voir une

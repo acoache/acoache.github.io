@@ -1,6 +1,7 @@
 import React from 'react';
 import Footer from '../../components/Footer';
 import DocumentMeta from 'react-document-meta';
+import { HashLink } from 'react-router-hash-link';
 import './styles.scss';
 import song1 from '../../media/1_StThomas.mp3';
 import song2 from '../../media/2_Georgia.mp3';
@@ -37,7 +38,12 @@ function Piano() {
         <h2>Piano</h2>
         <p>{pianoDescription}</p>
         <hr />
-        <h2>Anthony Coache - EP (2021)</h2>
+        <div className="piano_search">
+          <HashLink to="/piano#EP2021">Anthony Coache - EP (2021)</HashLink>
+          <HashLink to="/piano#CD2011">Anthony Coache - CD (2011)</HashLink>
+          <HashLink to="/piano#Band2Beat">Band 2 Beat! (2009)</HashLink>
+        </div>
+        <h3 id="EP2021">Anthony Coache - EP (2021)</h3>
         <p>
           I recorded six songs, including a composition, for my girlfriend's birthday.
         </p>
@@ -164,7 +170,7 @@ function Piano() {
           </ul>
         </div>
         <hr />
-        <h2>Anthony Coache - CD (2011)</h2>
+        <h3 id="CD2011">Anthony Coache - CD (2011)</h3>
         <p>
           I produced a non-commercial album of twelve songs when I was in Secondary 5.
           It includes covers and two compositions.
@@ -412,7 +418,7 @@ function Piano() {
           </ul>
         </div>
         <hr />
-        <h2>Band 2 Beat! (2009)</h2>
+        <h3 id="Band2Beat">Band 2 Beat! (2009)</h3>
         <p>
           I played at the Blues Camp held during the 2009 Montreal International Jazz Festival when
           I was 13 years old. This is a

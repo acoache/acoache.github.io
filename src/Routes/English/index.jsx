@@ -3,7 +3,6 @@ import React from 'react';
 import Footer from '../../components/Footer';
 import DocumentMeta from 'react-document-meta';
 import headshot from '../../media/photo3.jpg';
-import interests from '../../static/researchInterests';
 import './styles.scss';
 import Menu from '../../components/Menu';
 import News from '../../components/News';
@@ -22,27 +21,30 @@ function Home() {
         <div className={`${mainStyle}__headshot`}>
           <img className={`${mainStyle}__img`} src={headshot} alt="Anthony Coache" />
         </div>
-        <h2>PhD student in Statistics (UofT)</h2>
+        <h2>About me</h2>
         <div className="bio">
           <p>
-            I am currently a PhD candidate in Statistics at the University of Toronto (UofT) under the supervision of
-            <a href="http://sebastian.statistics.utoronto.ca/" target="_blank" rel="noreferrer"> Prof. Sebastian Jaimungal</a>.
-            I obtained a M.Sc. in Mathematics with Concentration in Statistics from the Université du Québec à Montréal (UQAM) in 2019
-            advised by
-            <a href="https://scholar.google.com/citations?user=3-OGWWMAAAAJ&hl=en" target="_blank" rel="noreferrer"> Prof. François Watier </a>
-            and 
-            <a href="http://www.labmath.uqam.ca/~ferland/" target="_blank" rel="noreferrer"> Prof. René Ferland</a>
-            , and graduated with Honours from the B.Sc. in Mathematics with Concentration
-            in Statistics from UQAM in 2017. I am a teaching assistant for statistics and mathematics courses and I was a private tutor for
-            several mathematics courses.
+            I am currently a Research Associate in the Mathematical Finance Section of the Department of Mathematics at
+            <a href="https://www.imperial.ac.uk/mathematical-finance/" target="_blank" rel="noreferrer"> Imperial College London</a>.
+          </p>
+          <p>
+            I received a PhD in Statistics at the <a href="https://www.statistics.utoronto.ca/" target="_blank" rel="noreferrer">University of Toronto </a>
+            under the supervision of <a href="http://sebastian.statistics.utoronto.ca/" target="_blank" rel="noreferrer"> Prof. Sebastian Jaimungal</a>, and
+            obtained a M.Sc. and B.Sc. with Honours in Mathematics with Concentration in Statistics from the <a href="https://sciences.uqam.ca/statistique/" target="_blank" rel="noreferrer">Université du Québec à Montréal</a>.
+            Recognitions of my work include the University of Toronto’s DoSS Doctoral Early Research Excellence Award, the
+            <a href="https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-fme-conference-paper-prize" target="_blank" rel="noreferrer"> SIAG/FME Conference Paper Prize</a>
+            , and <a href="https://www.nserc-crsng.gc.ca/index_eng.asp" target="_blank" rel="noreferrer">NSERC </a>
+            funding at the undergraduate (USRA), master's (CGS-M), doctoral (CGS-D), and postdoctoral (PDF) levels.
+          </p>
+          <p>
+          Throughout my studies, I have developed a strong background in mathematics and programming. Broadly, I am interested in multidisciplinary problems at the intersection of statistics and 
+          computer science, which encompasses reinforcement learning, stochastic modeling, risk sensitivity, optimization, applied statistics, and statistical learning. 
+          During my PhD, I developed decision-making algorithms to solve risk-sensitive control problems with time-consistent dynamic risk measures.
           </p>
         </div>
         <hr />
         <h2>News</h2>
         <News news={News} />
-        <hr />
-        <h2>Research Interests</h2>
-        <p>{interests}</p>
       </div>
       <Footer/>
     </div>

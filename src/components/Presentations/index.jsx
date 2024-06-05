@@ -23,7 +23,7 @@ function Presentations() {
         <ul>
           <li>
             <p>
-              <i>STATMAM Seminar, Montréal.</i> (Feb. 15, 2024)
+              <i>STATQAM Seminar, Montréal.</i> (Feb. 15, 2024)
               Une introduction à l’apprentissage par renforcement sensible au risque avec des mesures de risque dynamiques.
                 [<a href={SeminarSTATQAM}>Slides</a>]
             </p>
@@ -147,7 +147,7 @@ function Presentations() {
           <li>
             <p>
               <i>Probability and Statistics Student Seminar, Université du Québec à Montréal.</i> (July 13, 2017)
-              Non-Parametric Estimation of the Quantile Function.
+              Estimation non-paramétrique de la fonction quantile.
             </p>
           </li>
         </ul>

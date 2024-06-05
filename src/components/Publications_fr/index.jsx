@@ -13,6 +13,17 @@ function Publications() {
       <h3>Publications</h3>
       <h4>Articles</h4>
       <div className="papers">
+        {/*<ul>
+          <li>
+            <p>
+              <b> A. Coache</b>, & S. Jaimungal.
+              Robust Reinforcement Learning with Dynamic Distortion Risk Measures.
+                [
+                <a href="https://arxiv.org/abs/2308.08427" target="_blank" rel="noreferrer">arXiv</a>
+                ]
+            </p>
+          </li>
+        </ul>*/}
         <ul>
           <li>
             <p>
@@ -20,6 +31,8 @@ function Publications() {
               Eliciting Risk Aversion with Inverse Reinforcement Learning via Interactive Questioning.
                 [
                 <a href="https://arxiv.org/abs/2308.08427" target="_blank" rel="noreferrer">arXiv</a>
+                ] [
+                <a href="https://github.com/acoache/irl-for-risk-aversion" target="_blank" rel="noreferrer">Code</a>
                 ]
             </p>
           </li>
@@ -61,7 +74,7 @@ function Publications() {
           <li>
             <p>
               <b> A. Coache</b>, & S. Jaimungal.
-              Robust Reinforcement Learning with Dynamic Risk Measures.
+              Robust Reinforcement Learning with Dynamic Distortion Risk Measures.
             </p>
           </li>
         </ul>
@@ -124,17 +137,6 @@ function Publications() {
                 <a href={UncertaintyDeepQ} target="_blank" rel="noreferrer">Rapport</a>
                 ] [
                 <a href="https://github.com/acoache/sta4273-final-project" target="_blank" rel="noreferrer">Code</a>
-                ]
-            </p>
-          </li>
-        </ul>
-        <ul>
-          <li>
-            <p>
-              Modèle Sweave/TeX pour création de diapositives et affiches en Beamer.    [
-                <a href="https://github.com/acoache/knitr-beamer-3colors" target="_blank" rel="noreferrer">Diapos</a>
-                ] [
-                <a href="https://github.com/acoache/knitr-poster-3colors" target="_blank" rel="noreferrer">Affiche</a>
                 ]
             </p>
           </li>

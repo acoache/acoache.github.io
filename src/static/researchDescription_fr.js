@@ -1,3 +1,3 @@
-const txt = 'Vous trouverez ci-dessous les affiches, les projets, et les présentations auxquelles j’ai contribué.';
+const txt = 'Vous trouverez ci-dessous les projets et présentations auxquels j’ai contribué.';
 
 export default txt;

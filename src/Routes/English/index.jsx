@@ -24,7 +24,7 @@ function Home() {
         <h2>About me</h2>
         <div className="bio">
           <p>
-            I am currently a Research Assistant in the Mathematical Finance Section of the Department of Mathematics at
+            I am currently a Research Associate in the Mathematical Finance Section of the Department of Mathematics at
             <a href="https://www.imperial.ac.uk/mathematical-finance/" target="_blank" rel="noreferrer"> Imperial College London</a>.
           </p>
           <p>

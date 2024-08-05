@@ -1,17 +1,24 @@
 /* eslint-disable no-console */
 import React from 'react';
-import RLDynamicConvexRisk from '../../media/RL-DynamicConvexRisk.pdf';
-import OMIRLDynamicConvexRisk from '../../media/OMI2022_RLDynamicConvex.pdf';
-import DynamicCVaRElicitability from '../../media/DynamicCVaR_ElicitableRL.pdf';
-import Bachelier from '../../media/BFS2022-RLDynamicRisk.pdf';
-import Informs from '../../media/Informs2022_RLDynamicRisk.pdf';
-import GradResearchDay from '../../media/GraduateResearchDay_2023.pdf';
-import SIAMRobustRL from '../../media/SIAM_RobustRL_2023.pdf';
-import SIAMElicitablePrize from '../../media/SIAM_FMEPrize_2023.pdf';
-import RiskSensitiveRL from '../../media/RiskSensitive_RL.pdf';
-import SeminarSTATQAM from '../../media/STATQAM_slides_2024.pdf';
-import StochAlgo from '../../media/StochAlgo_Portfolio.pdf';
-import DistillingPD from '../../media/Distilling_PD.pdf';
+import STATQAM2024 from '../../media/STATQAM_2024_RLDynamic.pdf';
+import SIAM2023 from '../../media/SIAM_2023_RobustRL.pdf';
+import SIAGFMEPrize from '../../media/SIAGFMEPrize_2023.pdf';
+import Informs2022 from '../../media/Informs_2022_RLDynamicRisk.pdf';
+import Bachelier2022 from '../../media/BFS_2022_RLDynamicRisk.pdf';
+import OMI2022Workshop from '../../media/OMIWorkshop_2022_ElicitableRL.pdf';
+import SIAM2021 from '../../media/SIAM_2021_RLDynamicConvexRisk.pdf';
+
+import GradResearchDay2023 from '../../media/GraduateResearchDay_2023_RLDynamic.pdf';
+import OMI2022Visitor from '../../media/OMIVisitor_2022_RLDynamicConvex.pdf';
+import UofTML2021_Distillation from '../../media/UofTML_2021_DistillingPD.pdf';
+import ActSciMafi2021 from '../../media/ActSciMafi_2021_RiskSensitiveRL.pdf';
+import SSC2019 from '../../media/SSC_2019_StochAlgoPortfolio.pdf';
+
+import FieldsCFI2023 from '../../media/Fields_CFI2023_poster.pdf';
+import UofTML2021_Blair from '../../media/UofTML_2021_UncertaintyDeepQ.pdf';
+import BioStat2018 from '../../media/BioStats_2018_AdjustedRsquared.pdf';
+import SSC2018 from '../../media/SSC_2018_TEDtalks.pdf';
+import SSC2017 from '../../media/SSC_2017_FluView.pdf';
 import './styles.scss';
 
 function Presentations() {
@@ -20,12 +27,21 @@ function Presentations() {
       <h3>Présentations</h3>
       <h4>Présentations invitées</h4>
       <div className="Invited">
+        {/*<ul>
+          <li>
+            <p>
+              <i>STATQAM Mathematical Insights from Markets, Control and Learning, Aussois.</i> (XX sept. 2024)
+              Apprentissage par renforcement robuste pour mesures de risque dynamiques.
+                [<a href={Aussois2024}>Diapos</a>]
+            </p>
+          </li>
+        </ul>*/}
         <ul>
           <li>
             <p>
               <i>Séminaire de STATQAM, Montréal.</i> (15 févr. 2024)
               Une introduction à l’apprentissage par renforcement sensible au risque avec des mesures de risque dynamiques.
-                [<a href={SeminarSTATQAM}>Diapos</a>]
+                [<a href={STATQAM2024}>Diapos</a>]
             </p>
           </li>
         </ul>
@@ -33,8 +49,8 @@ function Presentations() {
           <li>
             <p>
               <i>SIAM Conference on Financial Mathematics and Engineering, Philadelphie.</i> (9 juin 2023)
-              Apprentissage robuste par renforcement pour mesures de risque dynamiques.
-                [<a href={SIAMRobustRL}>Diapos</a>]
+              Robust Reinforcement Learning for Dynamic Risk Measures.
+                [<a href={SIAM2023}>Diapos</a>]
             </p>
           </li>
         </ul>
@@ -43,7 +59,7 @@ function Presentations() {
             <p>
               <i>SIAG/FME Conference Paper Prize Session, Philadelphie.</i> (9 juin 2023)
               Conditionally Elicitable Dynamic Risk Measures for Deep Reinforcement Learning.
-                [<a href={SIAMElicitablePrize}>Diapos</a>]
+                [<a href={SIAGFMEPrize}>Diapos</a>]
             </p>
           </li>
         </ul>
@@ -51,8 +67,8 @@ function Presentations() {
           <li>
             <p>
               <i>Congrès annuel INFORMS, Indianapolis.</i> (18 oct. 2022)
-              Apprentissage par renforcement pour mesures de risque dynamiques.
-                [<a href={Informs}>Diapos</a>]
+              Reinforcement Learning with Dynamic Risk Measures.
+                [<a href={Informs2022}>Diapos</a>]
             </p>
           </li>
         </ul>
@@ -60,8 +76,8 @@ function Presentations() {
           <li>
             <p>
               <i>11e Congrès modial de la Bachelier Finance Society, en ligne.</i> (15 juin 2022)
-              Apprentissage par renforcement pour mesures de risque dynamiques.    [
-                <a href={Bachelier}>Diapos</a>
+              Reinforcement Learning for Dynamic Risk Measures.    [
+                <a href={Bachelier2022}>Diapos</a>
                 ]
             </p>
           </li>
@@ -70,9 +86,9 @@ function Presentations() {
           <li>
             <p>
               <i>Oxford-Man Institute Workshop, Oxford.</i> (6 mai 2022)
-              Optimisation de la CVaR dynamique sur des stratégies à l'aide de l'élicitabilité
-              conditionnelle.    [
-                <a href={DynamicCVaRElicitability}>Diapos</a>
+              Optimising a Dynamic Conditional Value-at-Risk over Policies using Conditional
+              Elicitability.    [
+                <a href={OMI2022Workshop}>Diapos</a>
                 ]
             </p>
           </li>
@@ -81,8 +97,8 @@ function Presentations() {
           <li>
             <p>
               <i>SIAM Conference on Financial Mathematics and Engineering, en ligne.</i> (1 juin 2021)
-              Apprentissage par renforcement avec mesures de risque convexes et dynamiques.    [
-                <a href={RLDynamicConvexRisk}>Diapos</a>
+              Reinforcement Learning with Dynamic Convex Risk Measures.    [
+                <a href={SIAM2021}>Diapos</a>
                 ]
             </p>
           </li>
@@ -93,9 +109,19 @@ function Presentations() {
         <ul>
           <li>
             <p>
-              <i>Statistics Graduate Student Research Day, University of Toronto.</i> (27 avril 2023)
-              Introduction au risk-aware RL avec mesures de risque dynamiques.    [
-                <a href={GradResearchDay}>Diapos</a>
+            <i>Fields-CFI Conference on Recent Advances in Mathematical Finance and Insurance, Toronto.</i> (25 sept. 2023)
+            Robust Reinforcement Learning for Dynamic Risk Measures.     [
+                <a href={FieldsCFI2023} target="_blank" rel="noreferrer">Affiche</a>
+                ]
+            </p>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <p>
+              <i>UofT Statistics Graduate Student Research Day, Toronto.</i> (27 avril 2023)
+              An Introduction to Risk-Aware RL with Dynamic Risk Measures.    [
+                <a href={GradResearchDay2023}>Diapos</a>
                 ]
             </p>
           </li>
@@ -104,8 +130,8 @@ function Presentations() {
           <li>
             <p>
               <i>Oxford-Man Institute Visitor Presentations, Oxford.</i> (11 mars 2022)
-              Apprentissage par renforcement avec mesures de risque convexes et dynamiques.     [
-                <a href={OMIRLDynamicConvexRisk}>Diapos</a>
+              Reinforcement Learning with Dynamic Convex Risk Measures. [
+                <a href={OMI2022Visitor}>Diapos</a>
                 ]
             </p>
           </li>
@@ -113,21 +139,33 @@ function Presentations() {
         <ul>
           <li>
             <p>
-              <i>Research Topics in Statistical Machine Learning, University of Toronto.</i> (18 mars 2021)
-              Distiller la distillation de politiques.    [
-                <a href={DistillingPD}>Diapos</a>
+              <i>UofT Research Topics in Statistical Machine Learning, en ligne.</i> (14 avril 2021)
+              Methods for Adding Explicit Uncertainty to Deep Q-Learning. (avec B. Bilodeau) [
+                <a href={UofTML2021_Blair} target="_blank" rel="noreferrer">Rapport</a>
+                ] [
+                <a href="https://github.com/acoache/sta4273-final-project" target="_blank" rel="noreferrer">Code</a>
+                ]
+            </p>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <p>
+              <i>UofT ACTSCI / MAFI Research Retreat, Prince Edward County.</i> (11 août 2021)
+              Risk-Sensitive Reinforcement Learning with Dynamic Risk Measures.    [
+                <a href={ActSciMafi2021}>Diapos</a>
+                ]
+            </p>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <p>
+              <i>UofT Research Topics in Statistical Machine Learning, en ligne.</i> (18 mars 2021)
+              Distilling Policy Distillation.    [
+                <a href={UofTML2021_Distillation}>Diapos</a>
                 ] [
                 <a href="https://github.com/acoache/distilling-policy-distillation">Notebook Python</a>
-                ]
-            </p>
-          </li>
-        </ul>
-        <ul>
-          <li>
-            <p>
-              <i>Congrès de recherche ACTSCI / MAFI, University of Toronto.</i> (28 janv. 2021)
-              Optimisation sensible au risque en apprentissage par renforcement.    [
-                <a href={RiskSensitiveRL}>Diapos</a>
                 ]
             </p>
           </li>
@@ -138,7 +176,7 @@ function Presentations() {
               <i>Congrès annuel de la SSC, Calgary.</i> (27 mai 2019)
               Algorithmes stochastiques pour résoudre un problème d’optimisation multi-périodique
               de portefeuille basé sur un quantile.    [
-                <a href={StochAlgo}>Diapos</a>
+                <a href={SSC2019}>Diapos</a>
                 ]
             </p>
           </li>
@@ -146,8 +184,42 @@ function Presentations() {
         <ul>
           <li>
             <p>
-              <i>Séminaire étudiant de probabilités et statistique, Université du Québec à Montréal. </i>
+            <i>McGill (Bio)Statistics Research Day, Montréal.</i> (Sep. 2018)
+              The Significance of the Adjusted R Squared. (avec O. Binette)  [
+                <a href={BioStat2018} target="_blank" rel="noreferrer">Affiche</a>
+                ] [
+                <a href="https://olivierbinette.github.io/posts/2020-11-15-the-significance-of-the-adjusted-r-squared-coefficient/" target="_blank" rel="noreferrer">Blog</a>
+                ]
+            </p>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <p>
+            <i>Congrès annuel de la SSC, Montréal.</i> (June 4, 2018) “Do schools kill creativity?” Well, they help analyze
+              popularity! (avec F. Larose) [
+                <a href={SSC2018} target="_blank" rel="noreferrer">Affiche</a>
+                ]
+            </p>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <p>
+              <i>Séminaire étudiant de probabilités et statistique de l'UQAM, Montréal. </i>
               (13 juil. 2017) Estimation non-paramétrique de la fonction quantile.
+            </p>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <p>
+            <i>Congrès annuel de la SSC, Winnipeg.</i> (June 12, 2017)
+            Comparison of surveillance flu data across regions. (présenté par R. Ferland & S. Froda) [
+                <a href={SSC2017} target="_blank" rel="noreferrer">Affiche</a>
+                ] [
+                <a href="https://www.nature.com/articles/s41598-018-38292-x" target="_blank" rel="noreferrer">Paper</a>
+                ]
             </p>
           </li>
         </ul>

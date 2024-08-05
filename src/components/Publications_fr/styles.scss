@@ -78,8 +78,12 @@
     padding-left: 15px;
   }
 
-  .progress li p a, .posters li p a, .workshops li p a, .projects li p a, .papers li p a {
+  .progress li p a, .preprints li p a, .papers li p a {
     color: darkblue;
+  }
+
+  .progress ul li p, .preprints ul li p, .papers ul li p {
+    line-height: 25px;
   }
 
   @media only screen and (max-width:$media-m1-max) {

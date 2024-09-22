@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.d500a3fd.chunk.css",
-    "main.js": "/static/js/main.5f7914df.chunk.js",
-    "main.js.map": "/static/js/main.5f7914df.chunk.js.map",
+    "main.js": "/static/js/main.ce578940.chunk.js",
+    "main.js.map": "/static/js/main.ce578940.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c3433ef0.js",
     "runtime-main.js.map": "/static/js/runtime-main.c3433ef0.js.map",
     "static/js/2.88035b43.chunk.js": "/static/js/2.88035b43.chunk.js",
@@ -31,6 +31,7 @@
     "static/media/8_DanseSmatte.1f078e5a.mp3": "/static/media/8_DanseSmatte.1f078e5a.mp3",
     "static/media/9_ComeSailAway.59431354.mp3": "/static/media/9_ComeSailAway.59431354.mp3",
     "static/media/ActSciMafi_2021_RiskSensitiveRL.1ccdd36f.pdf": "/static/media/ActSciMafi_2021_RiskSensitiveRL.1ccdd36f.pdf",
+    "static/media/Aussois_2024_RobustRL.849ec478.pdf": "/static/media/Aussois_2024_RobustRL.849ec478.pdf",
     "static/media/BFS_2022_RLDynamicRisk.c5c07ac2.pdf": "/static/media/BFS_2022_RLDynamicRisk.c5c07ac2.pdf",
     "static/media/Band_2_Beat.8ca26aeb.mp4": "/static/media/Band_2_Beat.8ca26aeb.mp4",
     "static/media/BioStats_2018_AdjustedRsquared.8deafea5.pdf": "/static/media/BioStats_2018_AdjustedRsquared.8deafea5.pdf",
@@ -49,14 +50,14 @@
     "static/media/STATQAM_2024_RLDynamic.95d564c0.pdf": "/static/media/STATQAM_2024_RLDynamic.95d564c0.pdf",
     "static/media/UofTML_2021_DistillingPD.04bbd225.pdf": "/static/media/UofTML_2021_DistillingPD.04bbd225.pdf",
     "static/media/UofTML_2021_UncertaintyDeepQ.3f063026.pdf": "/static/media/UofTML_2021_UncertaintyDeepQ.3f063026.pdf",
-    "static/media/cv_academic_en.df9f6953.pdf": "/static/media/cv_academic_en.df9f6953.pdf",
-    "static/media/cv_academic_fr.4a5878a6.pdf": "/static/media/cv_academic_fr.4a5878a6.pdf",
+    "static/media/cv_academic_en.e121b78d.pdf": "/static/media/cv_academic_en.e121b78d.pdf",
+    "static/media/cv_academic_fr.70a63f41.pdf": "/static/media/cv_academic_fr.70a63f41.pdf",
     "static/media/photo3.df28f2df.jpg": "/static/media/photo3.df28f2df.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c3433ef0.js",
     "static/js/2.88035b43.chunk.js",
     "static/css/main.d500a3fd.chunk.css",
-    "static/js/main.5f7914df.chunk.js"
+    "static/js/main.ce578940.chunk.js"
   ]
 }

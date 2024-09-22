@@ -1,5 +1,6 @@
 /* eslint-disable no-console */
 import React from 'react';
+import Aussois2024 from '../../media/Aussois_2024_RobustRL.pdf';
 import STATQAM2024 from '../../media/STATQAM_2024_RLDynamic.pdf';
 import SIAM2023 from '../../media/SIAM_2023_RobustRL.pdf';
 import SIAGFMEPrize from '../../media/SIAGFMEPrize_2023.pdf';
@@ -27,15 +28,15 @@ function Presentations() {
       <h3>Presentations</h3>
       <h4>Invited Talks</h4>
       <div className="Invited">
-        {/*<ul>
+        <ul>
           <li>
             <p>
-              <i>STATQAM Mathematical Insights from Markets, Control and Learning, Aussois.</i> (Sep. XX, 2024)
+              <i>Mathematical Insights from Markets, Control and Learning, Aussois.</i> (Sep. 26, 2024)
               Robust Reinforcement Learning for Dynamic Risk Measures.
                 [<a href={Aussois2024}>Slides</a>]
             </p>
           </li>
-        </ul>*/}
+        </ul>
         <ul>
           <li>
             <p>

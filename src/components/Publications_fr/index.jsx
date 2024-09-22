@@ -41,19 +41,19 @@ function Publications() {
       </div>
       <h4>Preprints</h4>
       <div className="preprints">
-        {/*<ul>
+        <ul>
           <li>
             <p>
               <b> A. Coache</b>, & S. Jaimungal.
               Robust Reinforcement Learning with Dynamic Distortion Risk Measures.
                 [
-                <a href="XXXXXXX" target="_blank" rel="noreferrer">arXiv</a>
+                <a href="https://doi.org/10.48550/arXiv.2409.10096" target="_blank" rel="noreferrer">arXiv</a>
                 ] [
-                <a href="XXXXXXX" target="_blank" rel="noreferrer">Code</a>
+                <a href="https://github.com/acoache/RL-DynamicRobustRisk" target="_blank" rel="noreferrer">Code</a>
                 ]
             </p>
           </li>
-        </ul>*/}
+        </ul>
         <ul>
           <li>
             <p>
@@ -73,8 +73,8 @@ function Publications() {
         <ul>
           <li>
             <p>
-              <b> A. Coache</b> & S. Jaimungal.
-              Robust Reinforcement Learning with Dynamic Distortion Risk Measures.
+              A. Capponi, <b> A. Coache</b> & J. Muhle-Karbe.
+              Impact Dynamics in Automated Market Makers.
             </p>
           </li>
         </ul>

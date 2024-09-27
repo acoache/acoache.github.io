@@ -28,11 +28,29 @@ function Presentations() {
       <h3>Présentations</h3>
       <h4>Présentations invitées</h4>
       <div className="Invited">
+        {/*<ul>
+          <li>
+            <p>
+              <i>Control and Optimization Seminar at University of Connecticut, online.</i> (4 nov. 2024)
+              Robust Reinforcement Learning for Dynamic Risk Measures.
+                [<a href={UConn2024}>Slides</a>]
+            </p>
+          </li>
+        </ul>*/}
+        {/*<ul>
+          <li>
+            <p>
+              <i>Mathematical Finance Seminar at Illinois Institute of Technology, online.</i> (15 oct. 2024)
+              Robust Reinforcement Learning for Dynamic Risk Measures.
+                [<a href={MathFinIIT2024}>Slides</a>]
+            </p>
+          </li>
+        </ul>*/}
         <ul>
           <li>
             <p>
               <i>Mathematical Insights from Markets, Control and Learning, Aussois.</i> (26 sept. 2024)
-              Apprentissage par renforcement robuste pour mesures de risque dynamiques.
+              Robust Reinforcement Learning for Dynamic Distortion Risk Measures.
                 [<a href={Aussois2024}>Diapos</a>]
             </p>
           </li>

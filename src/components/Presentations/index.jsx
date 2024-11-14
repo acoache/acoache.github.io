@@ -1,5 +1,7 @@
 /* eslint-disable no-console */
 import React from 'react';
+import UConn2024 from '../../media/UConn-RobustRL-2024.pdf';
+import MathFinIIT2024 from '../../media/IIT-MathFin-RobustRL-2024.pdf';
 import Aussois2024 from '../../media/Aussois_2024_RobustRL.pdf';
 import STATQAM2024 from '../../media/STATQAM_2024_RLDynamic.pdf';
 import SIAM2023 from '../../media/SIAM_2023_RobustRL.pdf';
@@ -28,7 +30,7 @@ function Presentations() {
       <h3>Presentations</h3>
       <h4>Invited Talks</h4>
       <div className="Invited">
-        {/*<ul>
+        <ul>
           <li>
             <p>
               <i>Control and Optimization Seminar at University of Connecticut, online.</i> (Nov. 4, 2024)
@@ -36,8 +38,8 @@ function Presentations() {
                 [<a href={UConn2024}>Slides</a>]
             </p>
           </li>
-        </ul>*/}
-        {/*<ul>
+        </ul>
+        <ul>
           <li>
             <p>
               <i>Mathematical Finance Seminar at Illinois Institute of Technology, online.</i> (Oct. 15, 2024)
@@ -45,7 +47,7 @@ function Presentations() {
                 [<a href={MathFinIIT2024}>Slides</a>]
             </p>
           </li>
-        </ul>*/}
+        </ul>
         <ul>
           <li>
             <p>

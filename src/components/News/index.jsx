@@ -9,6 +9,14 @@ function Presentations() {
         <ul>
           <li>
             <p>
+              <b>Jun, 2024 </b>
+              – Started a new position as a Research Associate at Imperial College London.
+            </p>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <p>
               <b>Feb, 2024 </b>
               – Invited to present my research work at the
               <a href="https://statqam.uqam.ca/" target="_blank" rel="noreferrer"> STATQAM Seminar</a>

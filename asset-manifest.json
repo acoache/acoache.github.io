@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.d500a3fd.chunk.css",
-    "main.js": "/static/js/main.7acfd6cd.chunk.js",
-    "main.js.map": "/static/js/main.7acfd6cd.chunk.js.map",
+    "main.js": "/static/js/main.74c573c6.chunk.js",
+    "main.js.map": "/static/js/main.74c573c6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c3433ef0.js",
     "runtime-main.js.map": "/static/js/runtime-main.c3433ef0.js.map",
     "static/js/2.88035b43.chunk.js": "/static/js/2.88035b43.chunk.js",
@@ -40,6 +40,7 @@
     "static/media/GraduateResearchDay_2023_RLDynamic.eaaf5a60.pdf": "/static/media/GraduateResearchDay_2023_RLDynamic.eaaf5a60.pdf",
     "static/media/IIT-MathFin-RobustRL-2024.ab38d4da.pdf": "/static/media/IIT-MathFin-RobustRL-2024.ab38d4da.pdf",
     "static/media/Informs_2022_RLDynamicRisk.8446e81e.pdf": "/static/media/Informs_2022_RLDynamicRisk.8446e81e.pdf",
+    "static/media/KCL-RobustRL-2025.d54f9104.pdf": "/static/media/KCL-RobustRL-2025.d54f9104.pdf",
     "static/media/OMIVisitor_2022_RLDynamicConvex.e06eb80c.pdf": "/static/media/OMIVisitor_2022_RLDynamicConvex.e06eb80c.pdf",
     "static/media/OMIWorkshop_2022_ElicitableRL.63a0f251.pdf": "/static/media/OMIWorkshop_2022_ElicitableRL.63a0f251.pdf",
     "static/media/SIAGFMEPrize_2023.5d9b99f7.pdf": "/static/media/SIAGFMEPrize_2023.5d9b99f7.pdf",
@@ -60,6 +61,6 @@
     "static/js/runtime-main.c3433ef0.js",
     "static/js/2.88035b43.chunk.js",
     "static/css/main.d500a3fd.chunk.css",
-    "static/js/main.7acfd6cd.chunk.js"
+    "static/js/main.74c573c6.chunk.js"
   ]
 }

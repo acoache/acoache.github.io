@@ -1,5 +1,6 @@
 /* eslint-disable no-console */
 import React from 'react';
+import KCL2025 from '../../media/KCL-RobustRL-2025.pdf';
 import UConn2024 from '../../media/UConn-RobustRL-2024.pdf';
 import MathFinIIT2024 from '../../media/IIT-MathFin-RobustRL-2024.pdf';
 import Aussois2024 from '../../media/Aussois_2024_RobustRL.pdf';
@@ -33,9 +34,18 @@ function Presentations() {
         <ul>
           <li>
             <p>
+              <i>King's College London Mathematical Finance Seminar, Londres.</i> (3 fév. 2025)
+              Robust Reinforcement Learning for Dynamic Distortion Risk Measures.
+                [<a href={KCL2025}>Diapos</a>]
+            </p>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <p>
               <i>Control and Optimization Seminar at University of Connecticut, online.</i> (4 nov. 2024)
               Robust Reinforcement Learning for Dynamic Risk Measures.
-                [<a href={UConn2024}>Slides</a>]
+                [<a href={UConn2024}>Diapos</a>]
             </p>
           </li>
         </ul>
@@ -44,7 +54,7 @@ function Presentations() {
             <p>
               <i>Mathematical Finance Seminar at Illinois Institute of Technology, online.</i> (15 oct. 2024)
               Robust Reinforcement Learning for Dynamic Risk Measures.
-                [<a href={MathFinIIT2024}>Slides</a>]
+                [<a href={MathFinIIT2024}>Diapos</a>]
             </p>
           </li>
         </ul>

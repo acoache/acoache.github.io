@@ -9,6 +9,14 @@ function Presentations() {
         <ul>
           <li>
             <p>
+              <b>Mar, 2025 </b>
+              – Notre article <a href="https://doi.org/10.1111/mafi.12388" target="_blank" rel="noreferrer">"RL with Dynamic Convex Risk Measures"</a> a été reconnu comme l'un des plus cités dans le journal Mathematical Finance parmi les travaux publiés en 2023.
+            </p>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <p>
               <b>Jun, 2024 </b>
               – Débuté un nouveau poste d'associé de recherche à Imperial College London.
             </p>

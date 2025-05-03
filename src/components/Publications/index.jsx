@@ -39,7 +39,7 @@ function Publications() {
           </li>
         </ul>
       </div>
-      <h4>Preprints</h4>
+      <h4>Papers Submitted</h4>
       <div className="preprints">
         <ul>
           <li>
@@ -68,13 +68,13 @@ function Publications() {
           </li>
         </ul>
       </div>
-      <h4>In progress</h4>
+      <h4>In Preparation</h4>
       <div className="progress">
         <ul>
           <li>
             <p>
               A. Capponi, <b> A. Coache</b> & J. Muhle-Karbe.
-              Impact Dynamics in Automated Market Makers.
+              Optimal Trading Across Coexisting Exchanges: Limit-Order Books and Automated Market Makers.
             </p>
           </li>
         </ul>

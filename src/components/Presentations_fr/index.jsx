@@ -1,5 +1,6 @@
 /* eslint-disable no-console */
 import React from 'react';
+import HongKong2025 from '../../media/ETH-HKG-ICL-2025.pdf';
 import KCL2025 from '../../media/KCL-RobustRL-2025.pdf';
 import UConn2024 from '../../media/UConn-RobustRL-2024.pdf';
 import MathFinIIT2024 from '../../media/IIT-MathFin-RobustRL-2024.pdf';
@@ -31,6 +32,15 @@ function Presentations() {
       <h3>Présentations</h3>
       <h4>Présentations invitées</h4>
       <div className="Invited">
+        <ul>
+          <li>
+            <p>
+              <i>ETH - Hong Kong - Imperial Mathematical Finance Workshop, Hong Kong.</i> (24 avr. 2025)
+              Optimal Trading Across Coexisting Exchanges: LOBs and AMMs.
+                [<a href={HongKong2025}>Diapos</a>]
+            </p>
+          </li>
+        </ul>
         <ul>
           <li>
             <p>

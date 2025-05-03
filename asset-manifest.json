@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.d500a3fd.chunk.css",
-    "main.js": "/static/js/main.74c573c6.chunk.js",
-    "main.js.map": "/static/js/main.74c573c6.chunk.js.map",
+    "main.js": "/static/js/main.3a347b17.chunk.js",
+    "main.js.map": "/static/js/main.3a347b17.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c3433ef0.js",
     "runtime-main.js.map": "/static/js/runtime-main.c3433ef0.js.map",
     "static/js/2.88035b43.chunk.js": "/static/js/2.88035b43.chunk.js",
@@ -36,6 +36,7 @@
     "static/media/Band_2_Beat.8ca26aeb.mp4": "/static/media/Band_2_Beat.8ca26aeb.mp4",
     "static/media/BioStats_2018_AdjustedRsquared.8deafea5.pdf": "/static/media/BioStats_2018_AdjustedRsquared.8deafea5.pdf",
     "static/media/main.scss": "/static/media/Roboto-Regular.a8d6ac03.ttf",
+    "static/media/ETH-HKG-ICL-2025.a6604bec.pdf": "/static/media/ETH-HKG-ICL-2025.a6604bec.pdf",
     "static/media/Fields_CFI2023_poster.ec9d0db3.pdf": "/static/media/Fields_CFI2023_poster.ec9d0db3.pdf",
     "static/media/GraduateResearchDay_2023_RLDynamic.eaaf5a60.pdf": "/static/media/GraduateResearchDay_2023_RLDynamic.eaaf5a60.pdf",
     "static/media/IIT-MathFin-RobustRL-2024.ab38d4da.pdf": "/static/media/IIT-MathFin-RobustRL-2024.ab38d4da.pdf",
@@ -53,14 +54,14 @@
     "static/media/UConn-RobustRL-2024.09d5ea66.pdf": "/static/media/UConn-RobustRL-2024.09d5ea66.pdf",
     "static/media/UofTML_2021_DistillingPD.04bbd225.pdf": "/static/media/UofTML_2021_DistillingPD.04bbd225.pdf",
     "static/media/UofTML_2021_UncertaintyDeepQ.3f063026.pdf": "/static/media/UofTML_2021_UncertaintyDeepQ.3f063026.pdf",
-    "static/media/cv_academic_en.c5e55b3f.pdf": "/static/media/cv_academic_en.c5e55b3f.pdf",
-    "static/media/cv_academic_fr.6efffea4.pdf": "/static/media/cv_academic_fr.6efffea4.pdf",
+    "static/media/cv_academic_en.4a709b5b.pdf": "/static/media/cv_academic_en.4a709b5b.pdf",
+    "static/media/cv_academic_fr.712f9570.pdf": "/static/media/cv_academic_fr.712f9570.pdf",
     "static/media/photo3.df28f2df.jpg": "/static/media/photo3.df28f2df.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c3433ef0.js",
     "static/js/2.88035b43.chunk.js",
     "static/css/main.d500a3fd.chunk.css",
-    "static/js/main.74c573c6.chunk.js"
+    "static/js/main.3a347b17.chunk.js"
   ]
 }

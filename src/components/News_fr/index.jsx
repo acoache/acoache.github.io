@@ -9,7 +9,23 @@ function Presentations() {
         <ul>
           <li>
             <p>
-              <b>Mar, 2025 </b>
+              <b>Jan, 2026 </b>
+              – Ravi d'annoncer que mes plus récents travaux postdoctoraux sont désormais disponible <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6145286" target="_blank" rel="noreferrer">en ligne</a>.
+            </p>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <p>
+              <b>Sep, 2025 </b>
+              – Co-organisateur des <a href="https://www.imperial.ac.uk/mathematical-finance/events/finance-and-stochastics/" target="_blank" rel="noreferrer">séminaires Finance & Stochastics</a> du groupe de recherche en mathématiques financières à Imperial College London.
+            </p>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <p>
+              <b>Mars, 2025 </b>
               – Notre article <a href="https://doi.org/10.1111/mafi.12388" target="_blank" rel="noreferrer">"RL with Dynamic Convex Risk Measures"</a> a été reconnu comme l'un des plus cités dans le journal Mathematical Finance parmi les travaux publiés en 2023.
             </p>
           </li>
@@ -17,7 +33,7 @@ function Presentations() {
         <ul>
           <li>
             <p>
-              <b>Jun, 2024 </b>
+              <b>Juin, 2024 </b>
               – Débuté un nouveau poste d'associé de recherche à Imperial College London.
             </p>
           </li>
@@ -25,7 +41,7 @@ function Presentations() {
         <ul>
           <li>
             <p>
-              <b>Févr, 2024 </b>
+              <b>Fév, 2024 </b>
               – Invité à présenter mes travaux de recherche au
               <a href="https://statqam.uqam.ca/" target="_blank" rel="noreferrer"> séminaire de STATQAM</a>
               , à Montréal le 15 février 2024.
@@ -35,8 +51,8 @@ function Presentations() {
         <ul>
           <li>
             <p>
-              <b>Jun, 2023 </b>
-              – Récipiendaire du Prix d’excellence pour la recherche doctorale du DoSS de l'Université de Toronto.
+              <b>Juin, 2023 </b>
+              – Récipiendaire du Prix dexcellence pour la recherche doctorale du DoSS de l'Université de Toronto.
             </p>
           </li>
         </ul>
@@ -65,7 +81,7 @@ function Presentations() {
         <ul>
           <li>
             <p>
-              <b>Janv, 2022 </b>
+              <b>Jan, 2022 </b>
               – Étudiant étranger à l'
               <a href="https://www.oxford-man.ox.ac.uk/previous-visitors/" target="_blank" rel="noreferrer"> Oxford-Man Institute</a>
               , Université d'Oxford, pendant une période de 6 mois; invité par
@@ -76,11 +92,11 @@ function Presentations() {
         <ul>
           <li>
             <p>
-              <b>Sept, 2021 </b>
-              – Membre du comité de programme pour l’
+              <b>Sep, 2021 </b>
+              – Membre du comité de programme pour l'
               <a href="https://ai-finance.org/" target="_blank" rel="noreferrer">ACM International Conference on AI in Finance</a>
-              , qui s’est tenu en ligne du 3-5 Novembre 2021. Je faisais partie du processus
-              de d’évaluation par les pairs à double insu.
+              , qui s'est tenu en ligne du 3-5 Novembre 2021. Je faisais partie du processus
+              de d'évaluation par les pairs à double insu.
             </p>
           </li>
         </ul>
@@ -90,7 +106,7 @@ function Presentations() {
               <b>Juin, 2021 </b>
               – Membre du comité organisateur du
               <a href="https://ssc.ca/fr/congres/annuel/congres-annuel-2021/neuvieme-congres-canadien-etudiants-en-statistique" target="_blank" rel="noreferrer"> Congrès canadien des étudiants en statistique 2021</a>
-              , qui s’est tenu en ligne (plutôt qu’à l’Université Memorial à Saint-Jean de Terre-Neuve
+              , qui s'est tenu en ligne (plutôt qu'à l'Université Memorial à Saint-Jean de Terre-Neuve
               en raison de la COVID-19) le 5 juin 2021.
             </p>
           </li>
@@ -101,8 +117,8 @@ function Presentations() {
               <b>Mai, 2020 </b>
               – Membre du comité organisateur du
               <a href="https://ssc.ca/fr/congres/annuel/congres-annuel-2020/congres-canadien-etudiants-en-statistique" target="_blank" rel="noreferrer"> Congrès canadien des étudiants en statistique 2020</a>
-              , qui s’est tenu en ligne (plutôt qu’à l’Université Carleton à Ottawa en raison de la
-              COVID-19) le 30 mai 2020. Je faisais partie de l’équipe de traduction, j’étais
+              , qui s'est tenu en ligne (plutôt qu'à l'Université Carleton à Ottawa en raison de la
+              COVID-19) le 30 mai 2020. Je faisais partie de l'équipe de traduction, j'étais
               président d'une session et modérateur.
             </p>
           </li>
@@ -111,7 +127,7 @@ function Presentations() {
           <li>
             <p>
               <b>Mars, 2019 </b>
-              – Co-organisé le Sommet étudiant de la statistique à Montréal, qui s'est tenu à l’UQAM le 15 mars
+              – Co-organisé le Sommet étudiant de la statistique à Montréal, qui s'est tenu à l'UQAM le 15 mars
               2019. Cette nouvelle initiative visait à réunir les étudiants
               francophones en statistique pour une journée de présentations.
               <a href="http://probability.ca/jeff/" target="_blank" rel="noreferrer"> Jeffrey S. Rosenthal </a>

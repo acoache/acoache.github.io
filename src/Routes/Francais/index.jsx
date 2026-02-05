@@ -25,7 +25,7 @@ function Home() {
         <div className="bio">
           <p>
             Je suis présentement un associé de recherche dans le groupe de mathématiques financières du département de mathématiques à
-            <a href="https://www.imperial.ac.uk/mathematical-finance/" target="_blank" rel="noreferrer"> Imperial College London</a>.
+            <a href="https://www.imperial.ac.uk/mathematical-finance/" target="_blank" rel="noreferrer"> Imperial College London</a>, sous la direction de <a href="</a>https://www.ma.imperial.ac.uk/~jmuhleka/" target="_blank" rel="noreferrer"> Prof. Johannes Muhle-Karbe</a>. Je dirige des projets de recherche en mathématiques financières, supervise des étudiants à la maîtrise dans le cadre de leurs thèses de recherche menés dans des banques et hedge funds de renommée mondiale (e.g., Morgan Stanley, Qube-RT, Deutsche Bank), et enseigne des cours sur la gestion quantitative du risque et l'optimisation.
           </p>
           <p>
             J'ai reçu un doctorat en statistique à <a href="https://www.statistics.utoronto.ca/" target="_blank" rel="noreferrer">l'Université de Toronto </a>
@@ -41,7 +41,8 @@ function Home() {
           aux problèmes multidisciplinaires à l'intersection de la statistique et de l'informatique, ce qui englobe l'apprentissage par renforcement,
           la modélisation stochastique, la sensitivité au risque, l'optimisation, la statistique appliquée et l'apprentissage statistique. 
           Au cours de mon doctorat, j'ai développé des algorithmes de prise de décision pour résoudre des problèmes de contrôle sensibles au risque 
-          avec des mesures de risque dynamiques cohérentes dans le temps.
+          avec des mesures de risque dynamiques cohérentes dans le temps. En tant que chercheur postdoctoral, j'ai également étudié le trading optimal et l'impact
+          des prix dans la tenue de marché automatisée.
           </p>
         </div>
         <hr />

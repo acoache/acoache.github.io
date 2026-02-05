@@ -33,10 +33,12 @@ function Music() {
         </div>
         <h3 id="Spotify">Playlists Spotify</h3>
         <div className="iframes">
+          <iframe src="https://open.spotify.com/embed/playlist/467NXZ1gGxeNK9Cp4dCGLi" allowtransparency="true" allow="encrypted-media" title="Music" frameBorder="0" />
+          <iframe src="https://open.spotify.com/embed/playlist/4IxRQz72QR9HQ6LRzp9jGd" allowtransparency="true" allow="encrypted-media" title="Music" frameBorder="0" />
           <iframe src="https://open.spotify.com/embed/playlist/4W90XSeFAJpTNHBAjOQngN" allowtransparency="true" allow="encrypted-media" title="Music" frameBorder="0" />
-          <iframe src="https://open.spotify.com/embed/playlist/6RCEqNxzFFWonxfXNjMWVA" allowtransparency="true" allow="encrypted-media" title="Music" frameBorder="0" />
         </div>
         <div className="iframes">
+          <iframe src="https://open.spotify.com/embed/playlist/6RCEqNxzFFWonxfXNjMWVA" allowtransparency="true" allow="encrypted-media" title="Music" frameBorder="0" />
           <iframe src="https://open.spotify.com/embed/playlist/1c68dfP3PB6PnGMgeaHzaJ" allowtransparency="true" allow="encrypted-media" title="Music" frameBorder="0" />
           <iframe src="https://open.spotify.com/embed/playlist/2p9LXP3yPPq0o2HQQB0VmB" allowtransparency="true" allow="encrypted-media" title="Music" frameBorder="0" />
         </div>
@@ -45,7 +47,7 @@ function Music() {
         <div className="iframes">
           <iframe src="https://open.spotify.com/embed/artist/1vCWHaC5f2uS3yhpwWbIA6" title="EDM Music" allowtransparency="true" frameBorder="0" />
           <iframe src="https://open.spotify.com/embed/artist/0daugAjUgbJSqdlyYNwIbT" title="EDM Music" allowtransparency="true" frameBorder="0" />
-          <iframe scrolling="no" allow="autoplay" title="Music" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/815594511&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true" frameBorder="no" />
+          <iframe src="https://open.spotify.com/embed/artist/521qvhdobR0GzhvU6TFw76" title="EDM Music" allowtransparency="true" frameBorder="0" />
         </div>
         <h3 id="FolkPop">Folk / Pop</h3>
         <p>Elina, Chelsea Cutler, Jeremy Zucker, Loote</p>
@@ -85,13 +87,12 @@ function Music() {
         </div>
         <h3 id="Divers">Divers</h3>
         <p>
-          Said the Sky, Shallou, Two Friends, The Piano Guys, Émile Proulx-Cloutier, Dezza,
+          Said the Sky, Shallou, Two Friends, Porter Robinson, The Piano Guys, Émile Proulx-Cloutier, Dezza,
           Seven Lions, Madeon
         </p>
         <div className="iframes">
           <iframe src="https://open.spotify.com/embed/artist/4LZ4De2MoO3lP6QaNCfvcu" allowtransparency="true" title="Music" frameBorder="0" />
           <iframe src="https://open.spotify.com/embed/artist/7C3Cbtr2PkH2l4tOGhtCsk" allowtransparency="true" title="Music" frameBorder="0" />
-          <iframe scrolling="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/917915269&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true" title="Music" frameBorder="no" />
         </div>
         <h3 id="Podcasts">Podcasts</h3>
         <div className="podcasts">

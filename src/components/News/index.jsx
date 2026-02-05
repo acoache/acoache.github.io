@@ -9,6 +9,22 @@ function Presentations() {
         <ul>
           <li>
             <p>
+              <b>Jan, 2026 </b>
+              – Excited to share that my most recent postdoctoral work is now available as a <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6145286" target="_blank" rel="noreferrer">preprint</a>.
+            </p>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <p>
+              <b>Sep, 2025 </b>
+              – Co-organizer of the weekly <a href="https://www.imperial.ac.uk/mathematical-finance/events/finance-and-stochastics/" target="_blank" rel="noreferrer">Finance & Stochastics seminars</a> of the Imperial College Mathematical Finance group.
+            </p>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <p>
               <b>Mar, 2025 </b>
               – Our paper <a href="https://doi.org/10.1111/mafi.12388" target="_blank" rel="noreferrer">"RL with Dynamic Convex Risk Measures"</a> has been recognized as a top cited article in Mathematical Finance among work published in 2023.
             </p>
@@ -89,7 +105,7 @@ function Presentations() {
               <b>Jun, 2021 </b>
               – Member of the organizing committee for the
               <a href="https://ssc.ca/en/meetings/annual/2021-annual-meeting/ninth-annual-canadian-statistics-student-conference" target="_blank" rel="noreferrer"> Canadian Statistics Student Conference 2021</a>
-              , held online (instead of at Memorial University in St. John’s due to COVID-19) on June
+              , held online (instead of at Memorial University in St. John's due to COVID-19) on June
               5, 2021.
             </p>
           </li>

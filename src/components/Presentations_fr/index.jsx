@@ -1,5 +1,7 @@
 /* eslint-disable no-console */
 import React from 'react';
+import Bachelier2025 from '../../media/LondonParisBachelier-2025.pdf';
+import SIAM2025 from '../../media/SIAM-FME-2025-LOBvAMM.pdf';
 import HongKong2025 from '../../media/ETH-HKG-ICL-2025.pdf';
 import KCL2025 from '../../media/KCL-RobustRL-2025.pdf';
 import UConn2024 from '../../media/UConn-RobustRL-2024.pdf';
@@ -13,6 +15,7 @@ import Bachelier2022 from '../../media/BFS_2022_RLDynamicRisk.pdf';
 import OMI2022Workshop from '../../media/OMIWorkshop_2022_ElicitableRL.pdf';
 import SIAM2021 from '../../media/SIAM_2021_RLDynamicConvexRisk.pdf';
 
+import aMaMeF2025 from '../../media/aMaMeF2025-LOBvAMM.pdf';
 import GradResearchDay2023 from '../../media/GraduateResearchDay_2023_RLDynamic.pdf';
 import OMI2022Visitor from '../../media/OMIVisitor_2022_RLDynamicConvex.pdf';
 import UofTML2021_Distillation from '../../media/UofTML_2021_DistillingPD.pdf';
@@ -32,6 +35,24 @@ function Presentations() {
       <h3>Présentations</h3>
       <h4>Présentations invitées</h4>
       <div className="Invited">
+        <ul>
+          <li>
+            <p>
+              <i>9th London-Paris Bachelier Workshop, Londres.</i> (6 nov. 2025)
+              Optimal Trading Across Coexisting Exchanges: LOBs and AMMs.
+                [<a href={Bachelier2025}>Diapos</a>]
+            </p>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <p>
+              <i>SIAM Conference on Financial Mathematics and Engineering, Miami.</i> (16 juil. 2025)
+              Optimal Trading Across Coexisting Exchanges: LOBs and AMMs.
+                [<a href={SIAM2025}>Diapos</a>]
+            </p>
+          </li>
+        </ul>
         <ul>
           <li>
             <p>
@@ -147,6 +168,16 @@ function Presentations() {
       </div>
       <h4>Présentations contribuées</h4>
       <div className="contributed">
+        <ul>
+          <li>
+            <p>
+            <i>Advanced Mathematical Methods for Finance, Verona.</i> (26 juin 2025)
+              Optimal Trading Across Coexisting Exchanges: LOBs and AMMs.     [
+                <a href={aMaMeF2025} target="_blank" rel="noreferrer">Diapos</a>
+                ]
+            </p>
+          </li>
+        </ul>
         <ul>
           <li>
             <p>

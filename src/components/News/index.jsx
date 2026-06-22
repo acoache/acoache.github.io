@@ -61,8 +61,8 @@ function Presentations() {
             <p>
               <b>Jun, 2023 </b>
               – Recipient of the
-              <a href="https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-fme-conference-paper-prize" target="_blank" rel="noreferrer"> SIAG/FME Conference Paper Prize</a>,
-              and invited to present my research work at the
+              <a href="https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-fme-conference-paper-prize" target="_blank" rel="noreferrer"> SIAG/FME Conference Paper Prize</a>
+              at the
               <a href="https://www.siam.org/conferences/cm/conference/fm23" target="_blank" rel="noreferrer"> SIAM Conference on Financial Mathematics and Engineering</a>
               , in Philadelphia on June 6-9, 2023.
             </p>

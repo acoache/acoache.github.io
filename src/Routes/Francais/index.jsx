@@ -23,26 +23,23 @@ function Home() {
         </div>
         <h2>À propos de moi</h2>
         <div className="bio">
+          {/*<p>
+            Je suis présentement .......
+          </p>*/}
           <p>
-            Je suis présentement un associé de recherche dans le groupe de mathématiques financières du département de mathématiques à
-            <a href="https://www.imperial.ac.uk/mathematical-finance/" target="_blank" rel="noreferrer"> Imperial College London</a>, sous la direction de <a href="</a>https://www.ma.imperial.ac.uk/~jmuhleka/" target="_blank" rel="noreferrer"> Prof. Johannes Muhle-Karbe</a>. Je dirige des projets de recherche en mathématiques financières, supervise des étudiants à la maîtrise dans le cadre de leurs thèses de recherche menés dans des banques et hedge funds de renommée mondiale (e.g., Morgan Stanley, Qube-RT, Deutsche Bank), et enseigne des cours sur la gestion quantitative du risque et l'optimisation.
+            {/*Auparavant, j'étais associé de recherche au sein du groupe de mathématiques financières du département de mathématiques à
+            <a href="https://www.imperial.ac.uk/mathematical-finance/" target="_blank" rel="noreferrer"> Imperial College London</a>, sous la direction de <a href="</a>https://www.ma.imperial.ac.uk/~jmuhleka/" target="_blank" rel="noreferrer"> Prof. Johannes Muhle-Karbe</a>. Mes travaux portaient principalement sur la gestion quantitative des risques, l'optimisation et la microstructure des marchés, avec des applications au domaine du trading et de la prise de décision en situation d'incertitude. J'ai également supervisé des projets de recherche de maîtrise menés avec des banques et hedge funds de premier plan, incluant Morgan Stanley, Qube-RT et Deutsche Bank.*/} En tant qu'associé de recherche au sein du groupe de mathématiques financières du département de mathématiques à
+            <a href="https://www.imperial.ac.uk/mathematical-finance/" target="_blank" rel="noreferrer"> Imperial College London</a>, sous la direction de <a href="</a>https://www.ma.imperial.ac.uk/~jmuhleka/" target="_blank" rel="noreferrer"> Prof. Johannes Muhle-Karbe</a>, mes travaux portaient principalement sur la gestion quantitative des risques, l'optimisation et la microstructure des marchés, avec des applications au domaine du trading et de la prise de décision en situation d'incertitude. J'ai également supervisé des projets de recherche de maîtrise menés avec des banques et hedge funds de premier plan, incluant Morgan Stanley, Qube-RT et Deutsche Bank.
           </p>
           <p>
             J'ai reçu un doctorat en statistique à <a href="https://www.statistics.utoronto.ca/" target="_blank" rel="noreferrer">l'Université de Toronto </a>
             sous la supervision de <a href="http://sebastian.statistics.utoronto.ca/" target="_blank" rel="noreferrer"> Prof. Sebastian Jaimungal</a>, et
-            obtenu un M.Sc. et B.Sc. avec mention d'honneur en mathématiques, concentration statistique, de <a href="https://sciences.uqam.ca/statistique/" target="_blank" rel="noreferrer">l'Université du Québec à Montréal</a>.
+            obtenu un M.Sc. et B.Sc. avec mention d'honneur en mathématiques et statistique de <a href="https://sciences.uqam.ca/statistique/" target="_blank" rel="noreferrer">l'Université du Québec à Montréal</a>.
+            Au cours de mon doctorat, j'ai développé des algorithmes de prise de décision pour résoudre des problèmes de contrôle séquentiel avec des mesures de risque dynamiques cohérentes dans le temps.
             Mes travaux ont été récompensés notamment par le prix d'excellence pour la recherche doctorale du DoSS de l'Université de Toronto, le
             <a href="https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-fme-conference-paper-prize" target="_blank" rel="noreferrer"> SIAG/FME Conference Paper Prize</a>
-            , et un financement du <a href="https://www.nserc-crsng.gc.ca/index_eng.asp" target="_blank" rel="noreferrer">CRSNG </a>
-            au premier cycle (BRPC), à la maîtrise (BESC-M), au doctorat (BESC-D), et au post-doctorat (BP).
-          </p>
-          <p>
-          Tout au long de mes études, j'ai acquis une très forte connaissance des mathématiques et de la programmation. De manière générale, je m'intéresse
-          aux problèmes multidisciplinaires à l'intersection de la statistique et de l'informatique, ce qui englobe l'apprentissage par renforcement,
-          la modélisation stochastique, la sensitivité au risque, l'optimisation, la statistique appliquée et l'apprentissage statistique. 
-          Au cours de mon doctorat, j'ai développé des algorithmes de prise de décision pour résoudre des problèmes de contrôle sensibles au risque 
-          avec des mesures de risque dynamiques cohérentes dans le temps. En tant que chercheur postdoctoral, j'ai également étudié le trading optimal et l'impact
-          des prix dans la tenue de marché automatisée.
+            , et un financement <a href="https://www.nserc-crsng.gc.ca/index_eng.asp" target="_blank" rel="noreferrer">CRSNG </a>
+            du premier cycle jusqu'au post-doctorat.
           </p>
         </div>
         <hr />

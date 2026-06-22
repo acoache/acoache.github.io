@@ -73,7 +73,7 @@ function Publications() {
           <li>
             <p>
               A. Capponi, <b> A. Coache</b>, & J. Muhle-Karbe. (2026)
-              Optimal Trading in Automated Market Makers.
+              Optimal Trading in Automated Market Makers. <b>Submitted at INFORMS</b>.
               [
               <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6145286" target="_blank" rel="noreferrer">SSRN</a>
               ]
@@ -84,11 +84,11 @@ function Publications() {
           <li>
             <p>
               M. Moghimi, <b> A. Coache</b>, & H. Ku. (2026)
-              Decoupling Time and Risk: Multi-Horizon Risk-Sensitive Reinforcement Learning. <b>Submitted at ICML</b>.
+              Decoupling Time and Risk: Multi-Horizon Risk-Sensitive Reinforcement Learning. <b>Submitted at NeurIPS</b>.
               [
               <a href="https://doi.org/10.48550/arXiv.2602.04131" target="_blank" rel="noreferrer">arXiv</a>
               ] [
-              <a href="https://anthonycoache.ca/" target="_blank" rel="noreferrer">Code</a>
+              <a href="https://github.com/MehrdadMoghimi/RIGOR" target="_blank" rel="noreferrer">Code</a>
               ]
             </p>
           </li>

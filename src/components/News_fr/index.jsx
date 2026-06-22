@@ -52,7 +52,7 @@ function Presentations() {
           <li>
             <p>
               <b>Juin, 2023 </b>
-              – Récipiendaire du Prix dexcellence pour la recherche doctorale du DoSS de l'Université de Toronto.
+              – Récipiendaire du Prix d'excellence pour la recherche doctorale du DoSS de l'Université de Toronto.
             </p>
           </li>
         </ul>
@@ -61,8 +61,8 @@ function Presentations() {
             <p>
               <b>Juin, 2023 </b>
               – Récipiendaire du
-              <a href="https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-fme-conference-paper-prize" target="_blank" rel="noreferrer"> SIAG/FME Conference Paper Prize</a>,
-              et invité à présenter mes travaux de recherche à
+              <a href="https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-fme-conference-paper-prize" target="_blank" rel="noreferrer"> SIAG/FME Conference Paper Prize</a>
+              au
               <a href="https://www.siam.org/conferences/cm/conference/fm23" target="_blank" rel="noreferrer"> SIAM Conference on Financial Mathematics and Engineering</a>
               , à Philadelphie du 6-9 juin 2023.
             </p>

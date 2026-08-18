@@ -9,6 +9,14 @@ function Presentations() {
         <ul>
           <li>
             <p>
+              <b>Aug, 2026 </b>
+              – Contributor to the <a href="https://github.com/6chaoran/jupyter-summarytools" target="_blank" rel="noreferrer">Python implementation of summarytools</a> for generating standardized, comprehensive DataFrame summaries inside Jupyter notebooks.
+            </p>
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <p>
               <b>Jan, 2026 </b>
               – Excited to share that my most recent postdoctoral work is now available as a <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6145286" target="_blank" rel="noreferrer">preprint</a>.
             </p>
@@ -61,8 +69,7 @@ function Presentations() {
             <p>
               <b>Jun, 2023 </b>
               – Recipient of the
-              <a href="https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-fme-conference-paper-prize" target="_blank" rel="noreferrer"> SIAG/FME Conference Paper Prize</a>
-              at the
+              <a href="https://www.siam.org/prizes-recognition/activity-group-prizes/detail/siag-fme-conference-paper-prize" target="_blank" rel="noreferrer"> SIAG/FME Conference Paper Prize</a> at the
               <a href="https://www.siam.org/conferences/cm/conference/fm23" target="_blank" rel="noreferrer"> SIAM Conference on Financial Mathematics and Engineering</a>
               , in Philadelphia on June 6-9, 2023.
             </p>
